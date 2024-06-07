@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<yml_catalog date="2024-06-05T18:20:51+03:00">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<yml_catalog date="2024-06-07 00:10">
  <shop>
-  <name>ВрачиМедавико</name>
+  <name>Врачи.Медавико</name>
   <company>ООО Медавико</company>
   <url>https://medaviko.ru</url>
   <email>info@medaviko.ru</email>
-  <picture>https://avatars.mds.yandex.net/get-pdb/5679262/13d16a0c-27e9-4095-8f55-accdc2d7c8f0/s1200</picture>
+  <picture>https://medaviko.ru/get-pdb/5679262/13d16a0c-27e9-4095-8f55-accdc2d7c8f0/s1200</picture>
   <description>Каталог врачей</description>
   <currencies>
    <currency id="RUR" rate="1"/>
@@ -16,131 +16,131 @@
   <sets>
    <set id="ginekolog">
     <name>Врач акушер-гинеколог</name>
-    <url>https://doctors.sample.s3.yandex.net/terapevt</url>
+    <url>https://medaviko.ru/terapevt</url>
    </set>
    <set id="nevrolog">
     <name>Врач невролог</name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
    <set id="onkolog">
     <name>Врач онколог</name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
    <set id="pulmonolog">
     <name>Врач пульмонолог </name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
    <set id="sshirurg">
     <name>Врач сердечно-сосудистый хирург</name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
    <set id="stomatgigienist">
     <name>Врач стоматолог-гигиенист</name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
    <set id="ortoped">
     <name>Врач травматолог-ортопед</name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
    <set id="uzd">
     <name>Врач УЗД</name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
    <set id="funcdiagnost">
     <name>Врач функциональной диагностики</name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
    <set id="gastro">
     <name>Врач-гастроэнтеролог</name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
    <set id="kardiolog">
     <name>Врач-кардиолог</name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
    <set id="neirohirurg">
     <name>Врач-нейрохирург</name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
    <set id="otolaringolog">
     <name>Врач-оториноларинголог</name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
    <set id="plasthirurg">
     <name>Врач-пластический хирург</name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
    <set id="psihoterapevt">
     <name>Врач-психотерапевт</name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
    <set id="rentgenolog">
     <name>Врач-рентгенолог</name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
    <set id="stomatolog">
     <name>Врач-стоматолог</name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
    <set id="terapevt">
     <name>Врач-терапевт</name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
    <set id="urolog">
     <name>Врач-уролог</name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
    <set id="hirurg">
     <name>Врач-хирург</name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
    <set id="endokrinolog">
     <name>Врач-эндокринолог</name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
    <set id="endoskopist">
     <name>Врач-эндоскопист</name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
    <set id="glavmed">
     <name>Главная медицинская сестра</name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
    <set id="glavvrach">
     <name>Главный врач</name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
    <set id="director">
     <name>Директор</name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
    <set id="zavedur">
     <name>Заведующий 2-ым урологическим отделением ОБУЗ КГКБ СМП</name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
    <set id="ker">
     <name>Заместитель главного врача по КЭР</name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
    <set id="zubvrach">
     <name>Зубной врач</name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
    <set id="mammolog">
     <name>Маммолог</name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
    <set id="medsestra">
     <name>Медицинская сестра</name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
    <set id="neonatolog">
     <name>Неонатолог</name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
    <set id="chelusthirurg">
     <name>Челюстно-лицевой хирург</name>
-    <url>https://doctors.sample.s3.yandex.net/khirurg</url>
+    <url>https://medaviko.ru/khirurg</url>
    </set>
   </sets>
   <offers>
@@ -2380,7 +2380,7 @@
     <name>Митина Екатерина Николаевна</name>
     <!--ФИО, именно в таком порядке-->
     <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-    <url>https://doctors.sample.s3.yandex.net/orlov/schepkina</url>
+    <url>https://medaviko.ru/orlov/schepkina</url>
     <!--URL карточки врача. -->
     <price from="true">3000</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
@@ -2390,7 +2390,7 @@
     <sales_notes>Первичный прием</sales_notes>
     <set-ids>terapevt,khirurg</set-ids>
     <!--специальности через запятую-->
-    <picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+    <picture>https://medaviko.ru/image/orlov.jpg</picture>
     <description>Владеет основными методами ультразвуковой диагностики, в том числе УЗИ брюшной полости, забрюшинного пространства, УЗИ предстательной железы, УЗИ щитовидной железы, УЗИ молочных желез и т.д. Специализируется на ультразвуковой диагностики в акушерстве и гинекологии. Обладает технологиями всех видов диагностики по патологии в акушерстве, гинекологии. Подробная информация о враче&quot;, //информативное описание врача. Его узкая специализация. SEO-текст из числа отзывов, специальностей и тп не принимается.
                 </description>
     <categoryId>1</categoryId>
@@ -2415,7 +2415,7 @@
     <param name="Степень">Кандидат наук</param>
     <param name="Звание">Профессор</param>
     <param name="Категория">Вторая категория</param>
-    <param name="Ссылка на профиль врача">https://doctors.sample.s3.yandex.net/orlov</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/orlov</param>
     <param name="Город клиники">г. Курск</param>
     <param name="Адрес клиники">ул. Щепкина, д. 35</param>
     <param name="Название клиники">Европейский медицинский центр на Щепкина</param>
@@ -2469,7 +2469,7 @@
     <name>Заринг Нелли Геннадьевна</name>
     <!--ФИО, именно в таком порядке-->
     <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-    <url>https://doctors.sample.s3.yandex.net/orlov/schepkina</url>
+    <url>https://medaviko.ru/orlov/schepkina</url>
     <!--URL карточки врача. -->
     <price from="true">3000</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
@@ -2479,7 +2479,7 @@
     <sales_notes>Первичный прием</sales_notes>
     <set-ids>terapevt,khirurg</set-ids>
     <!--специальности через запятую-->
-    <picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+    <picture>https://medaviko.ru/image/orlov.jpg</picture>
     <description>Владеет основными методами ультразвуковой диагностики, в том числе УЗИ брюшной полости, забрюшинного пространства, УЗИ предстательной железы, УЗИ щитовидной железы, УЗИ молочных желез и т.д. Специализируется на ультразвуковой диагностики в акушерстве и гинекологии. Обладает технологиями всех видов диагностики по патологии в акушерстве, гинекологии. Подробная информация о враче&quot;, //информативное описание врача. Его узкая специализация. SEO-текст из числа отзывов, специальностей и тп не принимается.
                 </description>
     <categoryId>1</categoryId>
@@ -2504,7 +2504,7 @@
     <param name="Степень">Кандидат наук</param>
     <param name="Звание">Профессор</param>
     <param name="Категория">Вторая категория</param>
-    <param name="Ссылка на профиль врача">https://doctors.sample.s3.yandex.net/orlov</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/orlov</param>
     <param name="Город клиники">г. Курск</param>
     <param name="Адрес клиники">ул. Щепкина, д. 35</param>
     <param name="Название клиники">Европейский медицинский центр на Щепкина</param>
@@ -2558,7 +2558,7 @@
     <name>Беляева Ольга Ивановна</name>
     <!--ФИО, именно в таком порядке-->
     <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-    <url>https://doctors.sample.s3.yandex.net/orlov/schepkina</url>
+    <url>https://medaviko.ru/orlov/schepkina</url>
     <!--URL карточки врача. -->
     <price from="true">3000</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
@@ -2568,7 +2568,7 @@
     <sales_notes>Первичный прием</sales_notes>
     <set-ids>terapevt,khirurg</set-ids>
     <!--специальности через запятую-->
-    <picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+    <picture>https://medaviko.ru/image/orlov.jpg</picture>
     <description>Владеет основными методами ультразвуковой диагностики, в том числе УЗИ брюшной полости, забрюшинного пространства, УЗИ предстательной железы, УЗИ щитовидной железы, УЗИ молочных желез и т.д. Специализируется на ультразвуковой диагностики в акушерстве и гинекологии. Обладает технологиями всех видов диагностики по патологии в акушерстве, гинекологии. Подробная информация о враче&quot;, //информативное описание врача. Его узкая специализация. SEO-текст из числа отзывов, специальностей и тп не принимается.
                 </description>
     <categoryId>1</categoryId>
@@ -2593,7 +2593,7 @@
     <param name="Степень">Кандидат наук</param>
     <param name="Звание">Профессор</param>
     <param name="Категория">Вторая категория</param>
-    <param name="Ссылка на профиль врача">https://doctors.sample.s3.yandex.net/orlov</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/orlov</param>
     <param name="Город клиники">г. Курск</param>
     <param name="Адрес клиники">ул. Щепкина, д. 35</param>
     <param name="Название клиники">Европейский медицинский центр на Щепкина</param>
@@ -2647,7 +2647,7 @@
     <name>Черномурова Татьяна Ивановна</name>
     <!--ФИО, именно в таком порядке-->
     <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-    <url>https://doctors.sample.s3.yandex.net/orlov/schepkina</url>
+    <url>https://medaviko.ru/orlov/schepkina</url>
     <!--URL карточки врача. -->
     <price from="true">3000</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
@@ -2657,7 +2657,7 @@
     <sales_notes>Первичный прием</sales_notes>
     <set-ids>terapevt,khirurg</set-ids>
     <!--специальности через запятую-->
-    <picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+    <picture>https://medaviko.ru/image/orlov.jpg</picture>
     <description>Владеет основными методами ультразвуковой диагностики, в том числе УЗИ брюшной полости, забрюшинного пространства, УЗИ предстательной железы, УЗИ щитовидной железы, УЗИ молочных желез и т.д. Специализируется на ультразвуковой диагностики в акушерстве и гинекологии. Обладает технологиями всех видов диагностики по патологии в акушерстве, гинекологии. Подробная информация о враче&quot;, //информативное описание врача. Его узкая специализация. SEO-текст из числа отзывов, специальностей и тп не принимается.
                 </description>
     <categoryId>1</categoryId>
@@ -2682,7 +2682,7 @@
     <param name="Степень">Кандидат наук</param>
     <param name="Звание">Профессор</param>
     <param name="Категория">Вторая категория</param>
-    <param name="Ссылка на профиль врача">https://doctors.sample.s3.yandex.net/orlov</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/orlov</param>
     <param name="Город клиники">г. Курск</param>
     <param name="Адрес клиники">ул. Щепкина, д. 35</param>
     <param name="Название клиники">Европейский медицинский центр на Щепкина</param>
@@ -2736,7 +2736,7 @@
     <name>Чуканова Татьяна Юрьевна</name>
     <!--ФИО, именно в таком порядке-->
     <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-    <url>https://doctors.sample.s3.yandex.net/orlov/schepkina</url>
+    <url>https://medaviko.ru/orlov/schepkina</url>
     <!--URL карточки врача. -->
     <price from="true">3000</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
@@ -2746,7 +2746,7 @@
     <sales_notes>Первичный прием</sales_notes>
     <set-ids>terapevt,khirurg</set-ids>
     <!--специальности через запятую-->
-    <picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+    <picture>https://medaviko.ru/image/orlov.jpg</picture>
     <description>Владеет основными методами ультразвуковой диагностики, в том числе УЗИ брюшной полости, забрюшинного пространства, УЗИ предстательной железы, УЗИ щитовидной железы, УЗИ молочных желез и т.д. Специализируется на ультразвуковой диагностики в акушерстве и гинекологии. Обладает технологиями всех видов диагностики по патологии в акушерстве, гинекологии. Подробная информация о враче&quot;, //информативное описание врача. Его узкая специализация. SEO-текст из числа отзывов, специальностей и тп не принимается.
                 </description>
     <categoryId>1</categoryId>
@@ -2771,7 +2771,7 @@
     <param name="Степень">Кандидат наук</param>
     <param name="Звание">Профессор</param>
     <param name="Категория">Вторая категория</param>
-    <param name="Ссылка на профиль врача">https://doctors.sample.s3.yandex.net/orlov</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/orlov</param>
     <param name="Город клиники">г. Курск</param>
     <param name="Адрес клиники">ул. Щепкина, д. 35</param>
     <param name="Название клиники">Европейский медицинский центр на Щепкина</param>
@@ -2825,7 +2825,7 @@
     <name>Белоусова Анна Игоревна</name>
     <!--ФИО, именно в таком порядке-->
     <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-    <url>https://doctors.sample.s3.yandex.net/orlov/schepkina</url>
+    <url>https://medaviko.ru/orlov/schepkina</url>
     <!--URL карточки врача. -->
     <price from="true">3000</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
@@ -2835,7 +2835,7 @@
     <sales_notes>Первичный прием</sales_notes>
     <set-ids>terapevt,khirurg</set-ids>
     <!--специальности через запятую-->
-    <picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+    <picture>https://medaviko.ru/image/orlov.jpg</picture>
     <description>Владеет основными методами ультразвуковой диагностики, в том числе УЗИ брюшной полости, забрюшинного пространства, УЗИ предстательной железы, УЗИ щитовидной железы, УЗИ молочных желез и т.д. Специализируется на ультразвуковой диагностики в акушерстве и гинекологии. Обладает технологиями всех видов диагностики по патологии в акушерстве, гинекологии. Подробная информация о враче&quot;, //информативное описание врача. Его узкая специализация. SEO-текст из числа отзывов, специальностей и тп не принимается.
                 </description>
     <categoryId>1</categoryId>
@@ -2860,7 +2860,7 @@
     <param name="Степень">Кандидат наук</param>
     <param name="Звание">Профессор</param>
     <param name="Категория">Вторая категория</param>
-    <param name="Ссылка на профиль врача">https://doctors.sample.s3.yandex.net/orlov</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/orlov</param>
     <param name="Город клиники">г. Курск</param>
     <param name="Адрес клиники">ул. Щепкина, д. 35</param>
     <param name="Название клиники">Европейский медицинский центр на Щепкина</param>
@@ -2914,7 +2914,7 @@
     <name>Чипилева Виктория Геннадьевна</name>
     <!--ФИО, именно в таком порядке-->
     <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-    <url>https://doctors.sample.s3.yandex.net/orlov/schepkina</url>
+    <url>https://medaviko.ru/orlov/schepkina</url>
     <!--URL карточки врача. -->
     <price from="true">3000</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
@@ -2924,7 +2924,7 @@
     <sales_notes>Первичный прием</sales_notes>
     <set-ids>terapevt,khirurg</set-ids>
     <!--специальности через запятую-->
-    <picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+    <picture>https://medaviko.ru/image/orlov.jpg</picture>
     <description>Владеет основными методами ультразвуковой диагностики, в том числе УЗИ брюшной полости, забрюшинного пространства, УЗИ предстательной железы, УЗИ щитовидной железы, УЗИ молочных желез и т.д. Специализируется на ультразвуковой диагностики в акушерстве и гинекологии. Обладает технологиями всех видов диагностики по патологии в акушерстве, гинекологии. Подробная информация о враче&quot;, //информативное описание врача. Его узкая специализация. SEO-текст из числа отзывов, специальностей и тп не принимается.
                 </description>
     <categoryId>1</categoryId>
@@ -2949,7 +2949,7 @@
     <param name="Степень">Кандидат наук</param>
     <param name="Звание">Профессор</param>
     <param name="Категория">Вторая категория</param>
-    <param name="Ссылка на профиль врача">https://doctors.sample.s3.yandex.net/orlov</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/orlov</param>
     <param name="Город клиники">г. Курск</param>
     <param name="Адрес клиники">ул. Щепкина, д. 35</param>
     <param name="Название клиники">Европейский медицинский центр на Щепкина</param>
@@ -3003,7 +3003,7 @@
     <name>Митюрева Ирина Александровна</name>
     <!--ФИО, именно в таком порядке-->
     <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-    <url>https://doctors.sample.s3.yandex.net/orlov/schepkina</url>
+    <url>https://medaviko.ru/orlov/schepkina</url>
     <!--URL карточки врача. -->
     <price from="true">3000</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
@@ -3013,7 +3013,7 @@
     <sales_notes>Первичный прием</sales_notes>
     <set-ids>terapevt,khirurg</set-ids>
     <!--специальности через запятую-->
-    <picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+    <picture>https://medaviko.ru/image/orlov.jpg</picture>
     <description>Владеет основными методами ультразвуковой диагностики, в том числе УЗИ брюшной полости, забрюшинного пространства, УЗИ предстательной железы, УЗИ щитовидной железы, УЗИ молочных желез и т.д. Специализируется на ультразвуковой диагностики в акушерстве и гинекологии. Обладает технологиями всех видов диагностики по патологии в акушерстве, гинекологии. Подробная информация о враче&quot;, //информативное описание врача. Его узкая специализация. SEO-текст из числа отзывов, специальностей и тп не принимается.
                 </description>
     <categoryId>1</categoryId>
@@ -3038,7 +3038,7 @@
     <param name="Степень">Кандидат наук</param>
     <param name="Звание">Профессор</param>
     <param name="Категория">Вторая категория</param>
-    <param name="Ссылка на профиль врача">https://doctors.sample.s3.yandex.net/orlov</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/orlov</param>
     <param name="Город клиники">г. Курск</param>
     <param name="Адрес клиники">ул. Щепкина, д. 35</param>
     <param name="Название клиники">Европейский медицинский центр на Щепкина</param>
@@ -3092,7 +3092,7 @@
     <name>Сошникова Наталья Витальевна</name>
     <!--ФИО, именно в таком порядке-->
     <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-    <url>https://doctors.sample.s3.yandex.net/orlov/schepkina</url>
+    <url>https://medaviko.ru/orlov/schepkina</url>
     <!--URL карточки врача. -->
     <price from="true">3000</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
@@ -3102,7 +3102,7 @@
     <sales_notes>Первичный прием</sales_notes>
     <set-ids>terapevt,khirurg</set-ids>
     <!--специальности через запятую-->
-    <picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+    <picture>https://medaviko.ru/image/orlov.jpg</picture>
     <description>Владеет основными методами ультразвуковой диагностики, в том числе УЗИ брюшной полости, забрюшинного пространства, УЗИ предстательной железы, УЗИ щитовидной железы, УЗИ молочных желез и т.д. Специализируется на ультразвуковой диагностики в акушерстве и гинекологии. Обладает технологиями всех видов диагностики по патологии в акушерстве, гинекологии. Подробная информация о враче&quot;, //информативное описание врача. Его узкая специализация. SEO-текст из числа отзывов, специальностей и тп не принимается.
                 </description>
     <categoryId>1</categoryId>
@@ -3127,7 +3127,7 @@
     <param name="Степень">Кандидат наук</param>
     <param name="Звание">Профессор</param>
     <param name="Категория">Вторая категория</param>
-    <param name="Ссылка на профиль врача">https://doctors.sample.s3.yandex.net/orlov</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/orlov</param>
     <param name="Город клиники">г. Курск</param>
     <param name="Адрес клиники">ул. Щепкина, д. 35</param>
     <param name="Название клиники">Европейский медицинский центр на Щепкина</param>
@@ -3181,7 +3181,7 @@
     <name>Ряписов Антон Денисович</name>
     <!--ФИО, именно в таком порядке-->
     <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-    <url>https://doctors.sample.s3.yandex.net/orlov/schepkina</url>
+    <url>https://medaviko.ru/orlov/schepkina</url>
     <!--URL карточки врача. -->
     <price from="true">3000</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
@@ -3191,7 +3191,7 @@
     <sales_notes>Первичный прием</sales_notes>
     <set-ids>terapevt,khirurg</set-ids>
     <!--специальности через запятую-->
-    <picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+    <picture>https://medaviko.ru/image/orlov.jpg</picture>
     <description>Владеет основными методами ультразвуковой диагностики, в том числе УЗИ брюшной полости, забрюшинного пространства, УЗИ предстательной железы, УЗИ щитовидной железы, УЗИ молочных желез и т.д. Специализируется на ультразвуковой диагностики в акушерстве и гинекологии. Обладает технологиями всех видов диагностики по патологии в акушерстве, гинекологии. Подробная информация о враче&quot;, //информативное описание врача. Его узкая специализация. SEO-текст из числа отзывов, специальностей и тп не принимается.
                 </description>
     <categoryId>1</categoryId>
@@ -3216,7 +3216,7 @@
     <param name="Степень">Кандидат наук</param>
     <param name="Звание">Профессор</param>
     <param name="Категория">Вторая категория</param>
-    <param name="Ссылка на профиль врача">https://doctors.sample.s3.yandex.net/orlov</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/orlov</param>
     <param name="Город клиники">г. Курск</param>
     <param name="Адрес клиники">ул. Щепкина, д. 35</param>
     <param name="Название клиники">Европейский медицинский центр на Щепкина</param>
@@ -3270,7 +3270,7 @@
     <name>Пашкова Валерия Николаевна</name>
     <!--ФИО, именно в таком порядке-->
     <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-    <url>https://doctors.sample.s3.yandex.net/orlov/schepkina</url>
+    <url>https://medaviko.ru/orlov/schepkina</url>
     <!--URL карточки врача. -->
     <price from="true">3000</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
@@ -3280,7 +3280,7 @@
     <sales_notes>Первичный прием</sales_notes>
     <set-ids>terapevt,khirurg</set-ids>
     <!--специальности через запятую-->
-    <picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+    <picture>https://medaviko.ru/image/orlov.jpg</picture>
     <description>Владеет основными методами ультразвуковой диагностики, в том числе УЗИ брюшной полости, забрюшинного пространства, УЗИ предстательной железы, УЗИ щитовидной железы, УЗИ молочных желез и т.д. Специализируется на ультразвуковой диагностики в акушерстве и гинекологии. Обладает технологиями всех видов диагностики по патологии в акушерстве, гинекологии. Подробная информация о враче&quot;, //информативное описание врача. Его узкая специализация. SEO-текст из числа отзывов, специальностей и тп не принимается.
                 </description>
     <categoryId>1</categoryId>
@@ -3305,7 +3305,7 @@
     <param name="Степень">Кандидат наук</param>
     <param name="Звание">Профессор</param>
     <param name="Категория">Вторая категория</param>
-    <param name="Ссылка на профиль врача">https://doctors.sample.s3.yandex.net/orlov</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/orlov</param>
     <param name="Город клиники">г. Курск</param>
     <param name="Адрес клиники">ул. Щепкина, д. 35</param>
     <param name="Название клиники">Европейский медицинский центр на Щепкина</param>
@@ -3359,7 +3359,7 @@
     <name>Ветров Вячеслав Романович</name>
     <!--ФИО, именно в таком порядке-->
     <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-    <url>https://doctors.sample.s3.yandex.net/orlov/schepkina</url>
+    <url>https://medaviko.ru/orlov/schepkina</url>
     <!--URL карточки врача. -->
     <price from="true">3000</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
@@ -3369,7 +3369,7 @@
     <sales_notes>Первичный прием</sales_notes>
     <set-ids>terapevt,khirurg</set-ids>
     <!--специальности через запятую-->
-    <picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+    <picture>https://medaviko.ru/image/orlov.jpg</picture>
     <description>Владеет основными методами ультразвуковой диагностики, в том числе УЗИ брюшной полости, забрюшинного пространства, УЗИ предстательной железы, УЗИ щитовидной железы, УЗИ молочных желез и т.д. Специализируется на ультразвуковой диагностики в акушерстве и гинекологии. Обладает технологиями всех видов диагностики по патологии в акушерстве, гинекологии. Подробная информация о враче&quot;, //информативное описание врача. Его узкая специализация. SEO-текст из числа отзывов, специальностей и тп не принимается.
                 </description>
     <categoryId>1</categoryId>
@@ -3394,7 +3394,7 @@
     <param name="Степень">Кандидат наук</param>
     <param name="Звание">Профессор</param>
     <param name="Категория">Вторая категория</param>
-    <param name="Ссылка на профиль врача">https://doctors.sample.s3.yandex.net/orlov</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/orlov</param>
     <param name="Город клиники">г. Курск</param>
     <param name="Адрес клиники">ул. Щепкина, д. 35</param>
     <param name="Название клиники">Европейский медицинский центр на Щепкина</param>
@@ -3448,7 +3448,7 @@
     <name>Громов Александр Леонидович</name>
     <!--ФИО, именно в таком порядке-->
     <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-    <url>https://doctors.sample.s3.yandex.net/orlov/schepkina</url>
+    <url>https://medaviko.ru/orlov/schepkina</url>
     <!--URL карточки врача. -->
     <price from="true">3000</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
@@ -3458,7 +3458,7 @@
     <sales_notes>Первичный прием</sales_notes>
     <set-ids>terapevt,khirurg</set-ids>
     <!--специальности через запятую-->
-    <picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+    <picture>https://medaviko.ru/image/orlov.jpg</picture>
     <description>Владеет основными методами ультразвуковой диагностики, в том числе УЗИ брюшной полости, забрюшинного пространства, УЗИ предстательной железы, УЗИ щитовидной железы, УЗИ молочных желез и т.д. Специализируется на ультразвуковой диагностики в акушерстве и гинекологии. Обладает технологиями всех видов диагностики по патологии в акушерстве, гинекологии. Подробная информация о враче&quot;, //информативное описание врача. Его узкая специализация. SEO-текст из числа отзывов, специальностей и тп не принимается.
                 </description>
     <categoryId>1</categoryId>
@@ -3483,7 +3483,7 @@
     <param name="Степень">Кандидат наук</param>
     <param name="Звание">Профессор</param>
     <param name="Категория">Вторая категория</param>
-    <param name="Ссылка на профиль врача">https://doctors.sample.s3.yandex.net/orlov</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/orlov</param>
     <param name="Город клиники">г. Курск</param>
     <param name="Адрес клиники">ул. Щепкина, д. 35</param>
     <param name="Название клиники">Европейский медицинский центр на Щепкина</param>
@@ -3537,7 +3537,7 @@
     <name>Брянцева Дарья Николаевна</name>
     <!--ФИО, именно в таком порядке-->
     <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-    <url>https://doctors.sample.s3.yandex.net/orlov/schepkina</url>
+    <url>https://medaviko.ru/orlov/schepkina</url>
     <!--URL карточки врача. -->
     <price from="true">3000</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
@@ -3547,7 +3547,7 @@
     <sales_notes>Первичный прием</sales_notes>
     <set-ids>terapevt,khirurg</set-ids>
     <!--специальности через запятую-->
-    <picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+    <picture>https://medaviko.ru/image/orlov.jpg</picture>
     <description>Владеет основными методами ультразвуковой диагностики, в том числе УЗИ брюшной полости, забрюшинного пространства, УЗИ предстательной железы, УЗИ щитовидной железы, УЗИ молочных желез и т.д. Специализируется на ультразвуковой диагностики в акушерстве и гинекологии. Обладает технологиями всех видов диагностики по патологии в акушерстве, гинекологии. Подробная информация о враче&quot;, //информативное описание врача. Его узкая специализация. SEO-текст из числа отзывов, специальностей и тп не принимается.
                 </description>
     <categoryId>1</categoryId>
@@ -3572,7 +3572,7 @@
     <param name="Степень">Кандидат наук</param>
     <param name="Звание">Профессор</param>
     <param name="Категория">Вторая категория</param>
-    <param name="Ссылка на профиль врача">https://doctors.sample.s3.yandex.net/orlov</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/orlov</param>
     <param name="Город клиники">г. Курск</param>
     <param name="Адрес клиники">ул. Щепкина, д. 35</param>
     <param name="Название клиники">Европейский медицинский центр на Щепкина</param>
@@ -3626,7 +3626,7 @@
     <name>Завгородняя Елизавета Александровна</name>
     <!--ФИО, именно в таком порядке-->
     <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-    <url>https://doctors.sample.s3.yandex.net/orlov/schepkina</url>
+    <url>https://medaviko.ru/orlov/schepkina</url>
     <!--URL карточки врача. -->
     <price from="true">3000</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
@@ -3636,7 +3636,7 @@
     <sales_notes>Первичный прием</sales_notes>
     <set-ids>terapevt,khirurg</set-ids>
     <!--специальности через запятую-->
-    <picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+    <picture>https://medaviko.ru/image/orlov.jpg</picture>
     <description>Владеет основными методами ультразвуковой диагностики, в том числе УЗИ брюшной полости, забрюшинного пространства, УЗИ предстательной железы, УЗИ щитовидной железы, УЗИ молочных желез и т.д. Специализируется на ультразвуковой диагностики в акушерстве и гинекологии. Обладает технологиями всех видов диагностики по патологии в акушерстве, гинекологии. Подробная информация о враче&quot;, //информативное описание врача. Его узкая специализация. SEO-текст из числа отзывов, специальностей и тп не принимается.
                 </description>
     <categoryId>1</categoryId>
@@ -3661,7 +3661,7 @@
     <param name="Степень">Кандидат наук</param>
     <param name="Звание">Профессор</param>
     <param name="Категория">Вторая категория</param>
-    <param name="Ссылка на профиль врача">https://doctors.sample.s3.yandex.net/orlov</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/orlov</param>
     <param name="Город клиники">г. Курск</param>
     <param name="Адрес клиники">ул. Щепкина, д. 35</param>
     <param name="Название клиники">Европейский медицинский центр на Щепкина</param>
@@ -3715,7 +3715,7 @@
     <name>Лунёва Мария Аркадьевна</name>
     <!--ФИО, именно в таком порядке-->
     <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-    <url>https://doctors.sample.s3.yandex.net/orlov/schepkina</url>
+    <url>https://medaviko.ru/orlov/schepkina</url>
     <!--URL карточки врача. -->
     <price from="true">3000</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
@@ -3725,7 +3725,7 @@
     <sales_notes>Первичный прием</sales_notes>
     <set-ids>terapevt,khirurg</set-ids>
     <!--специальности через запятую-->
-    <picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+    <picture>https://medaviko.ru/image/orlov.jpg</picture>
     <description>Владеет основными методами ультразвуковой диагностики, в том числе УЗИ брюшной полости, забрюшинного пространства, УЗИ предстательной железы, УЗИ щитовидной железы, УЗИ молочных желез и т.д. Специализируется на ультразвуковой диагностики в акушерстве и гинекологии. Обладает технологиями всех видов диагностики по патологии в акушерстве, гинекологии. Подробная информация о враче&quot;, //информативное описание врача. Его узкая специализация. SEO-текст из числа отзывов, специальностей и тп не принимается.
                 </description>
     <categoryId>1</categoryId>
@@ -3750,7 +3750,7 @@
     <param name="Степень">Кандидат наук</param>
     <param name="Звание">Профессор</param>
     <param name="Категория">Вторая категория</param>
-    <param name="Ссылка на профиль врача">https://doctors.sample.s3.yandex.net/orlov</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/orlov</param>
     <param name="Город клиники">г. Курск</param>
     <param name="Адрес клиники">ул. Щепкина, д. 35</param>
     <param name="Название клиники">Европейский медицинский центр на Щепкина</param>
@@ -3804,7 +3804,7 @@
     <name>Сидельникова Дарья Сергеевна</name>
     <!--ФИО, именно в таком порядке-->
     <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-    <url>https://doctors.sample.s3.yandex.net/orlov/schepkina</url>
+    <url>https://medaviko.ru/orlov/schepkina</url>
     <!--URL карточки врача. -->
     <price from="true">3000</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
@@ -3814,7 +3814,7 @@
     <sales_notes>Первичный прием</sales_notes>
     <set-ids>terapevt,khirurg</set-ids>
     <!--специальности через запятую-->
-    <picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+    <picture>https://medaviko.ru/image/orlov.jpg</picture>
     <description>Владеет основными методами ультразвуковой диагностики, в том числе УЗИ брюшной полости, забрюшинного пространства, УЗИ предстательной железы, УЗИ щитовидной железы, УЗИ молочных желез и т.д. Специализируется на ультразвуковой диагностики в акушерстве и гинекологии. Обладает технологиями всех видов диагностики по патологии в акушерстве, гинекологии. Подробная информация о враче&quot;, //информативное описание врача. Его узкая специализация. SEO-текст из числа отзывов, специальностей и тп не принимается.
                 </description>
     <categoryId>1</categoryId>
@@ -3839,7 +3839,7 @@
     <param name="Степень">Кандидат наук</param>
     <param name="Звание">Профессор</param>
     <param name="Категория">Вторая категория</param>
-    <param name="Ссылка на профиль врача">https://doctors.sample.s3.yandex.net/orlov</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/orlov</param>
     <param name="Город клиники">г. Курск</param>
     <param name="Адрес клиники">ул. Щепкина, д. 35</param>
     <param name="Название клиники">Европейский медицинский центр на Щепкина</param>
@@ -3893,7 +3893,7 @@
     <name>Снежко Елена Андреевна</name>
     <!--ФИО, именно в таком порядке-->
     <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-    <url>https://doctors.sample.s3.yandex.net/orlov/schepkina</url>
+    <url>https://medaviko.ru/orlov/schepkina</url>
     <!--URL карточки врача. -->
     <price from="true">3000</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
@@ -3903,7 +3903,7 @@
     <sales_notes>Первичный прием</sales_notes>
     <set-ids>terapevt,khirurg</set-ids>
     <!--специальности через запятую-->
-    <picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+    <picture>https://medaviko.ru/image/orlov.jpg</picture>
     <description>Владеет основными методами ультразвуковой диагностики, в том числе УЗИ брюшной полости, забрюшинного пространства, УЗИ предстательной железы, УЗИ щитовидной железы, УЗИ молочных желез и т.д. Специализируется на ультразвуковой диагностики в акушерстве и гинекологии. Обладает технологиями всех видов диагностики по патологии в акушерстве, гинекологии. Подробная информация о враче&quot;, //информативное описание врача. Его узкая специализация. SEO-текст из числа отзывов, специальностей и тп не принимается.
                 </description>
     <categoryId>1</categoryId>
@@ -3928,7 +3928,7 @@
     <param name="Степень">Кандидат наук</param>
     <param name="Звание">Профессор</param>
     <param name="Категория">Вторая категория</param>
-    <param name="Ссылка на профиль врача">https://doctors.sample.s3.yandex.net/orlov</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/orlov</param>
     <param name="Город клиники">г. Курск</param>
     <param name="Адрес клиники">ул. Щепкина, д. 35</param>
     <param name="Название клиники">Европейский медицинский центр на Щепкина</param>
@@ -3982,7 +3982,7 @@
     <name>Кравцова Екатерина Александровна</name>
     <!--ФИО, именно в таком порядке-->
     <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-    <url>https://doctors.sample.s3.yandex.net/orlov/schepkina</url>
+    <url>https://medaviko.ru/orlov/schepkina</url>
     <!--URL карточки врача. -->
     <price from="true">3000</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
@@ -3992,7 +3992,7 @@
     <sales_notes>Первичный прием</sales_notes>
     <set-ids>terapevt,khirurg</set-ids>
     <!--специальности через запятую-->
-    <picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+    <picture>https://medaviko.ru/image/orlov.jpg</picture>
     <description>Владеет основными методами ультразвуковой диагностики, в том числе УЗИ брюшной полости, забрюшинного пространства, УЗИ предстательной железы, УЗИ щитовидной железы, УЗИ молочных желез и т.д. Специализируется на ультразвуковой диагностики в акушерстве и гинекологии. Обладает технологиями всех видов диагностики по патологии в акушерстве, гинекологии. Подробная информация о враче&quot;, //информативное описание врача. Его узкая специализация. SEO-текст из числа отзывов, специальностей и тп не принимается.
                 </description>
     <categoryId>1</categoryId>
@@ -4017,7 +4017,7 @@
     <param name="Степень">Кандидат наук</param>
     <param name="Звание">Профессор</param>
     <param name="Категория">Вторая категория</param>
-    <param name="Ссылка на профиль врача">https://doctors.sample.s3.yandex.net/orlov</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/orlov</param>
     <param name="Город клиники">г. Курск</param>
     <param name="Адрес клиники">ул. Щепкина, д. 35</param>
     <param name="Название клиники">Европейский медицинский центр на Щепкина</param>
@@ -4071,7 +4071,7 @@
     <name>Степанец Наталья Геннадьевна</name>
     <!--ФИО, именно в таком порядке-->
     <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-    <url>https://doctors.sample.s3.yandex.net/orlov/schepkina</url>
+    <url>https://medaviko.ru/orlov/schepkina</url>
     <!--URL карточки врача. -->
     <price from="true">3000</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
@@ -4081,7 +4081,7 @@
     <sales_notes>Первичный прием</sales_notes>
     <set-ids>terapevt,khirurg</set-ids>
     <!--специальности через запятую-->
-    <picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+    <picture>https://medaviko.ru/image/orlov.jpg</picture>
     <description>Владеет основными методами ультразвуковой диагностики, в том числе УЗИ брюшной полости, забрюшинного пространства, УЗИ предстательной железы, УЗИ щитовидной железы, УЗИ молочных желез и т.д. Специализируется на ультразвуковой диагностики в акушерстве и гинекологии. Обладает технологиями всех видов диагностики по патологии в акушерстве, гинекологии. Подробная информация о враче&quot;, //информативное описание врача. Его узкая специализация. SEO-текст из числа отзывов, специальностей и тп не принимается.
                 </description>
     <categoryId>1</categoryId>
@@ -4106,7 +4106,7 @@
     <param name="Степень">Кандидат наук</param>
     <param name="Звание">Профессор</param>
     <param name="Категория">Вторая категория</param>
-    <param name="Ссылка на профиль врача">https://doctors.sample.s3.yandex.net/orlov</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/orlov</param>
     <param name="Город клиники">г. Курск</param>
     <param name="Адрес клиники">ул. Щепкина, д. 35</param>
     <param name="Название клиники">Европейский медицинский центр на Щепкина</param>
@@ -4160,7 +4160,7 @@
     <name>Ковалева Анна Вячеславовна</name>
     <!--ФИО, именно в таком порядке-->
     <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-    <url>https://doctors.sample.s3.yandex.net/orlov/schepkina</url>
+    <url>https://medaviko.ru/orlov/schepkina</url>
     <!--URL карточки врача. -->
     <price from="true">3000</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
@@ -4170,7 +4170,7 @@
     <sales_notes>Первичный прием</sales_notes>
     <set-ids>terapevt,khirurg</set-ids>
     <!--специальности через запятую-->
-    <picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+    <picture>https://medaviko.ru/image/orlov.jpg</picture>
     <description>Владеет основными методами ультразвуковой диагностики, в том числе УЗИ брюшной полости, забрюшинного пространства, УЗИ предстательной железы, УЗИ щитовидной железы, УЗИ молочных желез и т.д. Специализируется на ультразвуковой диагностики в акушерстве и гинекологии. Обладает технологиями всех видов диагностики по патологии в акушерстве, гинекологии. Подробная информация о враче&quot;, //информативное описание врача. Его узкая специализация. SEO-текст из числа отзывов, специальностей и тп не принимается.
                 </description>
     <categoryId>1</categoryId>
@@ -4195,7 +4195,7 @@
     <param name="Степень">Кандидат наук</param>
     <param name="Звание">Профессор</param>
     <param name="Категория">Вторая категория</param>
-    <param name="Ссылка на профиль врача">https://doctors.sample.s3.yandex.net/orlov</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/orlov</param>
     <param name="Город клиники">г. Курск</param>
     <param name="Адрес клиники">ул. Щепкина, д. 35</param>
     <param name="Название клиники">Европейский медицинский центр на Щепкина</param>
@@ -4249,7 +4249,7 @@
     <name>Браженко Татьяна Витальевна</name>
     <!--ФИО, именно в таком порядке-->
     <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-    <url>https://doctors.sample.s3.yandex.net/orlov/schepkina</url>
+    <url>https://medaviko.ru/orlov/schepkina</url>
     <!--URL карточки врача. -->
     <price from="true">3000</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
@@ -4259,7 +4259,7 @@
     <sales_notes>Первичный прием</sales_notes>
     <set-ids>terapevt,khirurg</set-ids>
     <!--специальности через запятую-->
-    <picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+    <picture>https://medaviko.ru/image/orlov.jpg</picture>
     <description>Владеет основными методами ультразвуковой диагностики, в том числе УЗИ брюшной полости, забрюшинного пространства, УЗИ предстательной железы, УЗИ щитовидной железы, УЗИ молочных желез и т.д. Специализируется на ультразвуковой диагностики в акушерстве и гинекологии. Обладает технологиями всех видов диагностики по патологии в акушерстве, гинекологии. Подробная информация о враче&quot;, //информативное описание врача. Его узкая специализация. SEO-текст из числа отзывов, специальностей и тп не принимается.
                 </description>
     <categoryId>1</categoryId>
@@ -4284,7 +4284,7 @@
     <param name="Степень">Кандидат наук</param>
     <param name="Звание">Профессор</param>
     <param name="Категория">Вторая категория</param>
-    <param name="Ссылка на профиль врача">https://doctors.sample.s3.yandex.net/orlov</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/orlov</param>
     <param name="Город клиники">г. Курск</param>
     <param name="Адрес клиники">ул. Щепкина, д. 35</param>
     <param name="Название клиники">Европейский медицинский центр на Щепкина</param>
@@ -4338,7 +4338,7 @@
     <name>Попрядухина Вероника Игоревна</name>
     <!--ФИО, именно в таком порядке-->
     <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-    <url>https://doctors.sample.s3.yandex.net/orlov/schepkina</url>
+    <url>https://medaviko.ru/orlov/schepkina</url>
     <!--URL карточки врача. -->
     <price from="true">3000</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
@@ -4348,7 +4348,7 @@
     <sales_notes>Первичный прием</sales_notes>
     <set-ids>terapevt,khirurg</set-ids>
     <!--специальности через запятую-->
-    <picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+    <picture>https://medaviko.ru/image/orlov.jpg</picture>
     <description>Владеет основными методами ультразвуковой диагностики, в том числе УЗИ брюшной полости, забрюшинного пространства, УЗИ предстательной железы, УЗИ щитовидной железы, УЗИ молочных желез и т.д. Специализируется на ультразвуковой диагностики в акушерстве и гинекологии. Обладает технологиями всех видов диагностики по патологии в акушерстве, гинекологии. Подробная информация о враче&quot;, //информативное описание врача. Его узкая специализация. SEO-текст из числа отзывов, специальностей и тп не принимается.
                 </description>
     <categoryId>1</categoryId>
@@ -4373,7 +4373,7 @@
     <param name="Степень">Кандидат наук</param>
     <param name="Звание">Профессор</param>
     <param name="Категория">Вторая категория</param>
-    <param name="Ссылка на профиль врача">https://doctors.sample.s3.yandex.net/orlov</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/orlov</param>
     <param name="Город клиники">г. Курск</param>
     <param name="Адрес клиники">ул. Щепкина, д. 35</param>
     <param name="Название клиники">Европейский медицинский центр на Щепкина</param>
@@ -4427,7 +4427,7 @@
     <name>Шиленок Ирина Владимировна</name>
     <!--ФИО, именно в таком порядке-->
     <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-    <url>https://doctors.sample.s3.yandex.net/orlov/schepkina</url>
+    <url>https://medaviko.ru/orlov/schepkina</url>
     <!--URL карточки врача. -->
     <price from="true">3000</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
@@ -4437,7 +4437,7 @@
     <sales_notes>Первичный прием</sales_notes>
     <set-ids>terapevt,khirurg</set-ids>
     <!--специальности через запятую-->
-    <picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+    <picture>https://medaviko.ru/image/orlov.jpg</picture>
     <description>Владеет основными методами ультразвуковой диагностики, в том числе УЗИ брюшной полости, забрюшинного пространства, УЗИ предстательной железы, УЗИ щитовидной железы, УЗИ молочных желез и т.д. Специализируется на ультразвуковой диагностики в акушерстве и гинекологии. Обладает технологиями всех видов диагностики по патологии в акушерстве, гинекологии. Подробная информация о враче&quot;, //информативное описание врача. Его узкая специализация. SEO-текст из числа отзывов, специальностей и тп не принимается.
                 </description>
     <categoryId>1</categoryId>
@@ -4462,7 +4462,7 @@
     <param name="Степень">Кандидат наук</param>
     <param name="Звание">Профессор</param>
     <param name="Категория">Вторая категория</param>
-    <param name="Ссылка на профиль врача">https://doctors.sample.s3.yandex.net/orlov</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/orlov</param>
     <param name="Город клиники">г. Курск</param>
     <param name="Адрес клиники">ул. Щепкина, д. 35</param>
     <param name="Название клиники">Европейский медицинский центр на Щепкина</param>
@@ -4516,7 +4516,7 @@
     <name>Даниленко Игорь Олегович</name>
     <!--ФИО, именно в таком порядке-->
     <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-    <url>https://doctors.sample.s3.yandex.net/orlov/schepkina</url>
+    <url>https://medaviko.ru/orlov/schepkina</url>
     <!--URL карточки врача. -->
     <price from="true">3000</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
@@ -4526,7 +4526,7 @@
     <sales_notes>Первичный прием</sales_notes>
     <set-ids>terapevt,khirurg</set-ids>
     <!--специальности через запятую-->
-    <picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+    <picture>https://medaviko.ru/image/orlov.jpg</picture>
     <description>Владеет основными методами ультразвуковой диагностики, в том числе УЗИ брюшной полости, забрюшинного пространства, УЗИ предстательной железы, УЗИ щитовидной железы, УЗИ молочных желез и т.д. Специализируется на ультразвуковой диагностики в акушерстве и гинекологии. Обладает технологиями всех видов диагностики по патологии в акушерстве, гинекологии. Подробная информация о враче&quot;, //информативное описание врача. Его узкая специализация. SEO-текст из числа отзывов, специальностей и тп не принимается.
                 </description>
     <categoryId>1</categoryId>
@@ -4551,7 +4551,7 @@
     <param name="Степень">Кандидат наук</param>
     <param name="Звание">Профессор</param>
     <param name="Категория">Вторая категория</param>
-    <param name="Ссылка на профиль врача">https://doctors.sample.s3.yandex.net/orlov</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/orlov</param>
     <param name="Город клиники">г. Курск</param>
     <param name="Адрес клиники">ул. Щепкина, д. 35</param>
     <param name="Название клиники">Европейский медицинский центр на Щепкина</param>
@@ -4605,7 +4605,7 @@
     <name>Енютина Виктория Викторовна</name>
     <!--ФИО, именно в таком порядке-->
     <!--URL может совпадать ТОЛЬКО для офферов с одинаковым group_id.-->
-    <url>https://doctors.sample.s3.yandex.net/orlov/schepkina</url>
+    <url>https://medaviko.ru/orlov/schepkina</url>
     <!--URL карточки врача. -->
     <price from="true">3000</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
@@ -4615,7 +4615,7 @@
     <sales_notes>Первичный прием</sales_notes>
     <set-ids>terapevt,khirurg</set-ids>
     <!--специальности через запятую-->
-    <picture>https://doctors.sample.s3.yandex.net/image/orlov.jpg</picture>
+    <picture>https://medaviko.ru/image/orlov.jpg</picture>
     <description>Владеет основными методами ультразвуковой диагностики, в том числе УЗИ брюшной полости, забрюшинного пространства, УЗИ предстательной железы, УЗИ щитовидной железы, УЗИ молочных желез и т.д. Специализируется на ультразвуковой диагностики в акушерстве и гинекологии. Обладает технологиями всех видов диагностики по патологии в акушерстве, гинекологии. Подробная информация о враче&quot;, //информативное описание врача. Его узкая специализация. SEO-текст из числа отзывов, специальностей и тп не принимается.
                 </description>
     <categoryId>1</categoryId>
@@ -4640,7 +4640,7 @@
     <param name="Степень">Кандидат наук</param>
     <param name="Звание">Профессор</param>
     <param name="Категория">Вторая категория</param>
-    <param name="Ссылка на профиль врача">https://doctors.sample.s3.yandex.net/orlov</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/orlov</param>
     <param name="Город клиники">г. Курск</param>
     <param name="Адрес клиники">ул. Щепкина, д. 35</param>
     <param name="Название клиники">Европейский медицинский центр на Щепкина</param>

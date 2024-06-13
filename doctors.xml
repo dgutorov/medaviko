@@ -16,31 +16,31 @@
   <sets>
    <set id="ginekolog">
     <name>Врач акушер-гинеколог</name>
-    <url>https://medaviko.ru/ginekolog</url>
+    <url>https://medaviko.ru/gynecologist</url>
    </set>
    <set id="nevrolog">
     <name>Врач невролог</name>
-    <url>https://medaviko.ru/nevrolog</url>
+    <url>https://medaviko.ru/neurologist</url>
    </set>
    <set id="onkolog">
     <name>Врач онколог</name>
-    <url>https://medaviko.ru/onkolog</url>
+    <url>https://medaviko.ru/oncologist</url>
    </set>
    <set id="pulmonolog">
     <name>Врач пульмонолог </name>
-    <url>https://medaviko.ru/pulmonolog</url>
+    <url>https://medaviko.ru/pulmo</url>
    </set>
    <set id="sshirurg">
     <name>Врач сердечно-сосудистый хирург</name>
-    <url>https://medaviko.ru/sshirurg</url>
+    <url>https://medaviko.ru/surgeon</url>
    </set>
    <set id="stomatgigienist">
     <name>Врач стоматолог-гигиенист</name>
-    <url>https://medaviko.ru/stomatgigienist</url>
+    <url>https://medaviko.ru/dentist</url>
    </set>
    <set id="ortoped">
     <name>Врач травматолог-ортопед</name>
-    <url>https://medaviko.ru/ortoped</url>
+    <url>https://medaviko.ru/traumatologist</url>
    </set>
    <set id="uzd">
     <name>Врач УЗД</name>
@@ -48,7 +48,7 @@
    </set>
    <set id="funcdiagnost">
     <name>Врач функциональной диагностики</name>
-    <url>https://medaviko.ru/funcdiagnost</url>
+    <url>https://medaviko.ru/fd</url>
    </set>
    <set id="gastro">
     <name>Врач-гастроэнтеролог</name>
@@ -56,19 +56,19 @@
    </set>
    <set id="kardiolog">
     <name>Врач-кардиолог</name>
-    <url>https://medaviko.ru/kardiolog</url>
+    <url>https://medaviko.ru/cardiologist</url>
    </set>
    <set id="neirohirurg">
     <name>Врач-нейрохирург</name>
-    <url>https://medaviko.ru/neirohirurg</url>
+    <url>https://medaviko.ru/neurosurgeon</url>
    </set>
    <set id="otolaringolog">
     <name>Врач-оториноларинголог</name>
-    <url>https://medaviko.ru/otolaringolog</url>
+    <url>https://medaviko.ru/otorhinolaryngologist</url>
    </set>
    <set id="plasthirurg">
     <name>Врач-пластический хирург</name>
-    <url>https://medaviko.ru/plasthirurg</url>
+    <url>https://medaviko.ru/hirurgia</url>
    </set>
    <set id="psihoterapevt">
     <name>Врач-психотерапевт</name>
@@ -88,15 +88,15 @@
    </set>
    <set id="urolog">
     <name>Врач-уролог</name>
-    <url>https://medaviko.ru/urolog</url>
+    <url>https://medaviko.ru/urologist</url>
    </set>
-   <set id="hirurg">
+   <set id="khirurg">
     <name>Врач-хирург</name>
     <url>https://medaviko.ru/hirurg</url>
    </set>
    <set id="endokrinolog">
     <name>Врач-эндокринолог</name>
-    <url>https://medaviko.ru/endokrinolog</url>
+    <url>https://medaviko.ru/endocrinologist</url>
    </set>
    <set id="endoskopist">
     <name>Врач-эндоскопист</name>

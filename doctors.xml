@@ -16,131 +16,131 @@
   <sets>
    <set id="ginekolog">
     <name>Врач акушер-гинеколог</name>
-    <url>https://medaviko.ru/terapevt</url>
+    <url>https://medaviko.ru/ginekolog</url>
    </set>
    <set id="nevrolog">
     <name>Врач невролог</name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/nevrolog</url>
    </set>
    <set id="onkolog">
     <name>Врач онколог</name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/onkolog</url>
    </set>
    <set id="pulmonolog">
     <name>Врач пульмонолог </name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/pulmonolog</url>
    </set>
    <set id="sshirurg">
     <name>Врач сердечно-сосудистый хирург</name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/sshirurg</url>
    </set>
    <set id="stomatgigienist">
     <name>Врач стоматолог-гигиенист</name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/stomatgigienist</url>
    </set>
    <set id="ortoped">
     <name>Врач травматолог-ортопед</name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/ortoped</url>
    </set>
    <set id="uzd">
     <name>Врач УЗД</name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/uzd</url>
    </set>
    <set id="funcdiagnost">
     <name>Врач функциональной диагностики</name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/funcdiagnost</url>
    </set>
    <set id="gastro">
     <name>Врач-гастроэнтеролог</name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/gastro</url>
    </set>
    <set id="kardiolog">
     <name>Врач-кардиолог</name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/kardiolog</url>
    </set>
    <set id="neirohirurg">
     <name>Врач-нейрохирург</name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/neirohirurg</url>
    </set>
    <set id="otolaringolog">
     <name>Врач-оториноларинголог</name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/otolaringolog</url>
    </set>
    <set id="plasthirurg">
     <name>Врач-пластический хирург</name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/plasthirurg</url>
    </set>
    <set id="psihoterapevt">
     <name>Врач-психотерапевт</name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/psihoterapevt</url>
    </set>
    <set id="rentgenolog">
     <name>Врач-рентгенолог</name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/rentgenolog</url>
    </set>
    <set id="stomatolog">
     <name>Врач-стоматолог</name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/stomatolog</url>
    </set>
    <set id="terapevt">
     <name>Врач-терапевт</name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/terapevt</url>
    </set>
    <set id="urolog">
     <name>Врач-уролог</name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/urolog</url>
    </set>
    <set id="hirurg">
     <name>Врач-хирург</name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/hirurg</url>
    </set>
    <set id="endokrinolog">
     <name>Врач-эндокринолог</name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/endokrinolog</url>
    </set>
    <set id="endoskopist">
     <name>Врач-эндоскопист</name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/endoskopist</url>
    </set>
    <set id="glavmed">
     <name>Главная медицинская сестра</name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/glavmed</url>
    </set>
    <set id="glavvrach">
     <name>Главный врач</name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/glavvrach</url>
    </set>
    <set id="director">
     <name>Директор</name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/director</url>
    </set>
    <set id="zavedur">
     <name>Заведующий 2-ым урологическим отделением ОБУЗ КГКБ СМП</name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/zavedur</url>
    </set>
    <set id="ker">
     <name>Заместитель главного врача по КЭР</name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/ker</url>
    </set>
    <set id="zubvrach">
     <name>Зубной врач</name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/zubvrach</url>
    </set>
    <set id="mammolog">
     <name>Маммолог</name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/mammolog</url>
    </set>
    <set id="medsestra">
     <name>Медицинская сестра</name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/medsestra</url>
    </set>
    <set id="neonatolog">
     <name>Неонатолог</name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/neonatolog</url>
    </set>
    <set id="chelusthirurg">
     <name>Челюстно-лицевой хирург</name>
-    <url>https://medaviko.ru/khirurg</url>
+    <url>https://medaviko.ru/chelusthirurg</url>
    </set>
   </sets>
   <offers>

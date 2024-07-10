@@ -38,8 +38,8 @@
     <name>Врач-хирург</name>
     <url>https://medaviko.ru/hirurg</url>
    </set>
+  </sets>
   <offers>
-
    <offer id="vrach1">
     <name>Синицын Андрей Александрович</name>
     

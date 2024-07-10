@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<yml_catalog date="2024-07-10 00:10">
+<yml_catalog date="2024-07-09 00:10">
  <shop>
   <name>Врачи.Медавико</name>
   <company>ООО Медавико</company>
@@ -14,135 +14,30 @@
    <category id="1">Врач</category>
   </categories>
   <sets>
-   <set id="ginekolog">
-    <name>Врач акушер-гинеколог</name>
-    <url>https://medaviko.ru/gynecologist</url>
-   </set>
-   <set id="nevrolog">
-    <name>Врач невролог</name>
-    <url>https://medaviko.ru/neurologist</url>
-   </set>
-   <set id="onkolog">
-    <name>Врач онколог</name>
-    <url>https://medaviko.ru/oncologist</url>
-   </set>
-   <set id="pulmonolog">
-    <name>Врач пульмонолог </name>
-    <url>https://medaviko.ru/pulmo</url>
-   </set>
-   <set id="sshirurg">
-    <name>Врач сердечно-сосудистый хирург</name>
-    <url>https://medaviko.ru/surgeon</url>
-   </set>
-   <set id="stomatgigienist">
-    <name>Врач стоматолог-гигиенист</name>
-    <url>https://medaviko.ru/dentist</url>
-   </set>
-   <set id="ortoped">
-    <name>Врач травматолог-ортопед</name>
-    <url>https://medaviko.ru/traumatologist</url>
-   </set>
-   <set id="uzd">
-    <name>Врач УЗД</name>
-    <url>https://medaviko.ru/uzd</url>
-   </set>
-   <set id="funcdiagnost">
-    <name>Врач функциональной диагностики</name>
-    <url>https://medaviko.ru/fd</url>
-   </set>
-   <set id="gastro">
-    <name>Врач-гастроэнтеролог</name>
-    <url>https://medaviko.ru/gastro</url>
-   </set>
-   <set id="kardiolog">
-    <name>Врач-кардиолог</name>
-    <url>https://medaviko.ru/cardiologist</url>
-   </set>
-   <set id="neirohirurg">
-    <name>Врач-нейрохирург</name>
-    <url>https://medaviko.ru/neurosurgeon</url>
-   </set>
-   <set id="otolaringolog">
-    <name>Врач-оториноларинголог</name>
-    <url>https://medaviko.ru/otorhinolaryngologist</url>
-   </set>
-   <set id="plasthirurg">
-    <name>Врач-пластический хирург</name>
-    <url>https://medaviko.ru/hirurgia</url>
-   </set>
-   <set id="psihoterapevt">
-    <name>Врач-психотерапевт</name>
-    <url>https://medaviko.ru/psihoterapevt</url>
-   </set>
-   <set id="rentgenolog">
-    <name>Врач-рентгенолог</name>
-    <url>https://medaviko.ru/rentgenolog</url>
-   </set>
-   <set id="stomatolog">
-    <name>Врач-стоматолог</name>
-    <url>https://medaviko.ru/stomatolog</url>
-   </set>
-   <set id="terapevt">
-    <name>Врач-терапевт</name>
-    <url>https://medaviko.ru/terapevt</url>
-   </set>
-   <set id="urolog">
-    <name>Врач-уролог</name>
-    <url>https://medaviko.ru/urologist</url>
-   </set>
-   <set id="khirurg">
-    <name>Врач-хирург</name>
-    <url>https://medaviko.ru/hirurg</url>
-   </set>
-   <set id="endokrinolog">
-    <name>Врач-эндокринолог</name>
-    <url>https://medaviko.ru/endocrinologist</url>
-   </set>
-   <set id="endoskopist">
-    <name>Врач-эндоскопист</name>
-    <url>https://medaviko.ru/endoskopist</url>
-   </set>
-   <set id="glavmed">
-    <name>Главная медицинская сестра</name>
-    <url>https://medaviko.ru/glavmed</url>
-   </set>
-   <set id="glavvrach">
-    <name>Главный врач</name>
-    <url>https://medaviko.ru/glavvrach</url>
-   </set>
    <set id="director">
     <name>Директор</name>
     <url>https://medaviko.ru/director</url>
    </set>
-   <set id="zavedur">
-    <name>Заведующий 2-ым урологическим отделением ОБУЗ КГКБ СМП</name>
-    <url>https://medaviko.ru/zavedur</url>
+    <set id="stomatolog">
+    <name>Врач-стоматолог</name>
+    <url>https://medaviko.ru/stomatolog</url>
    </set>
-   <set id="ker">
-    <name>Заместитель главного врача по КЭР</name>
-    <url>https://medaviko.ru/ker</url>
+      <set id="glavvrach">
+    <name>Главный врач</name>
+    <url>https://medaviko.ru/glavvrach</url>
    </set>
-   <set id="zubvrach">
-    <name>Зубной врач</name>
-    <url>https://medaviko.ru/zubvrach</url>
+      <set id="rentgenolog">
+    <name>Врач-рентгенолог</name>
+    <url>https://medaviko.ru/rentgenolog</url>
    </set>
-   <set id="mammolog">
-    <name>Маммолог</name>
-    <url>https://medaviko.ru/mammolog</url>
+      <set id="terapevt">
+    <name>Врач-терапевт</name>
+    <url>https://medaviko.ru/terapevt</url>
    </set>
-   <set id="medsestra">
-    <name>Медицинская сестра</name>
-    <url>https://medaviko.ru/medsestra</url>
+      <set id="khirurg">
+    <name>Врач-хирург</name>
+    <url>https://medaviko.ru/hirurg</url>
    </set>
-   <set id="neonatolog">
-    <name>Неонатолог</name>
-    <url>https://medaviko.ru/neonatolog</url>
-   </set>
-   <set id="chelusthirurg">
-    <name>Челюстно-лицевой хирург</name>
-    <url>https://medaviko.ru/chelusthirurg</url>
-   </set>
-  </sets>
   <offers>
 
    <offer id="vrach1">

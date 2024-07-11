@@ -50,7 +50,7 @@
     <oldprice>500</oldprice>
     <!--Цена приема в клинике, должна быть не ниже price-->
     <currencyId>RUR</currencyId>
-    <sales_notes>Прием (осмотр, консультация) врача-стоматолога первичный</sales_notes>
+    <sales_notes>Прием врача-стоматолога первичный</sales_notes>
     <set-ids>director,stomatolog</set-ids>
     <!--специальности через запятую-->
     <picture>https://static.tildacdn.com/tild3561-3030-4632-a464-643635303736/941.jpg</picture>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<yml_catalog date="2024-07-10 00:10">
+<yml_catalog date="2024-07-11 00:10">
  <shop>
   <name>Врачи.Медавико</name>
   <company>ООО Медавико</company>
@@ -43,7 +43,7 @@
    <offer id="vrach1">
     <name>Синицын Андрей Александрович</name>
     
-    <url>https://medaviko.ru/doctors#popup:sinitsin</url>
+    <url>https://medaviko.ru/doctors/sinitsin</url>
     <!--URL карточки врача. -->
     <price from="true">500</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
@@ -95,7 +95,7 @@
    <offer id="vrach2">
     <name>Чуканов Виктор Владимирович</name>
     
-    <url>https://medaviko.ru/doctors#popup:tcukanov</url>
+    <url>https://medaviko.ru/doctors/tcukanov</url>
     <!--URL карточки врача. -->
     <price from="true">3000</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
@@ -147,7 +147,7 @@
    <offer id="vrach3">
     <name>Дубонос Дарья Владимировна</name>
     
-    <url>https://medaviko.ru/doctors#popup:dubonos</url>
+    <url>https://medaviko.ru/doctors/dubonos</url>
     <!--URL карточки врача. -->
     <price from="true">3000</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
@@ -193,55 +193,7 @@
     <param name="Место работы - 1" unit="Организация">Медицинский центр «Медавико»</param>
     <param name="Место работы - 1" unit="Дата">2023</param>
    </offer>
-   <offer id="vrach4">
-    <name>Климов Борис Борисович</name>
-    
-    <url>https://medaviko.ru/doctors#popup:klimov</url>
-    <!--URL карточки врача. -->
-    <price from="true">3000</price>
-    <!--Цена приема при записи в источнике фида, с учетом скидки -->
-    <oldprice>4000</oldprice>
-    <!--Цена приема в клинике, должна быть не ниже price-->
-    <currencyId>RUR</currencyId>
-    <sales_notes>Первичный прием</sales_notes>
-    <set-ids>terapevt,khirurg</set-ids>
-    <!--специальности через запятую-->
-    <picture>https://static.tildacdn.com/tild3234-6237-4138-a539-643462373036/IMG_8871JPG.jpg</picture>
-    <description>Владеет основными методами оториноларингологии</description>
-    <categoryId>1</categoryId>
-    <!--Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида-->
-    <param name="Фамилия">Климов</param>
-    <param name="Имя">Борис</param>
-    <param name="Отчество">Борисович</param>
-    <param name="Годы опыта">11</param>
-    <param name="Начало карьеры">2011-01-01</param>
-    <!--Дата начала карьеры, для подсчета стажа-->
-    <param name="Город">г. Курск</param>
-    <param name="Взрослый врач">true</param>
-    <!--Принимает взрослых, от 18 лет-->
-    <param name="Детский врач">false</param>
-    <!--Принимает детей, до 18 лет-->
-
-    <param name="Ссылка на профиль врача">https://medaviko.ru/doctors#popup:klimov</param>
-    <param name="Город клиники">г. Курск</param>
-    <param name="Адрес клиники">Магистральный проезд, 11Е</param>
-    <param name="Название клиники">Медицинский центр «Медавико»</param>
-    <param name="Возможность записи">true</param>
-    <!--Возможность записаться на прием через сайт-поставщик фида-->
-    <param name="Онлайн-расписание">true</param>
-    <param name="Телефон для записи">+7 (4712) 25-47-03</param>
-    <!--Можно подменник аггрегатора-->
-    <param name="Образование - 1" unit="Организация">Курский Государственный Медицинский Университет</param>
-    <param name="Образование - 1" unit="Дата">2011</param>
-    <param name="Образование - 1" unit="Название">Базовое образование</param>
-    <param name="Образование - 1" unit="Специальность">Лечебное дело</param>
-    <param name="Образование - 2" unit="Организация">Курский Государственный Медицинский Университет</param>
-    <param name="Образование - 2" unit="Дата">2021</param>
-    <param name="Образование - 2" unit="Название">Профессиональная переподготовка</param>
-    <param name="Образование - 2" unit="Специальность">Оториноларингология</param>
-    <param name="Место работы - 1" unit="Организация">Медицинский центр «Медавико»</param>
-    <param name="Место работы - 1" unit="Дата">2023</param>
-   </offer>
+   
 
   </offers>
  </shop>

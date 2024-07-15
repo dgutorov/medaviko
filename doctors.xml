@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<yml_catalog date="2024-07-11 00:10">
+<yml_catalog date="2024-07-14 00:10">
  <shop>
   <name>Врачи.Медавико</name>
   <company>ООО Медавико</company>
   <url>https://medaviko.ru</url>
   <email>info@medaviko.ru</email>
-  <picture>https://static.tildacdn.com/tild6133-6565-4638-b066-316233333937/photo.svg</picture>
+  <picture>https://static.tildacdn.com/tild6339-6436-4964-a239-633664336538/Frame.png</picture>
   <description>Каталог врачей</description>
   <currencies>
    <currency id="RUR" rate="1"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<yml_catalog date="2024-07-14 00:10">
+<yml_catalog date="2024-10-08 00:10">
  <shop>
   <name>Врачи.Медавико</name>
   <company>ООО Медавико</company>
@@ -30,13 +30,25 @@
     <name>Врач-рентгенолог</name>
     <url>https://medaviko.ru/rentgenolog</url>
    </set>
-      <set id="terapevt">
+   <set id="terapevt">
     <name>Врач-терапевт</name>
     <url>https://medaviko.ru/terapevt</url>
    </set>
-      <set id="khirurg">
-    <name>Врач-хирург</name>
-    <url>https://medaviko.ru/hirurg</url>
+   <set id="otolaringolog">
+    <name>Врач-оториноларинголог</name>
+    <url>https://medaviko.ru/otorhinolaryngologist</url>
+   </set>
+   <set id="endokrinolog">
+    <name>Врач-эндокринолог</name>
+    <url>https://medaviko.ru/endocrinologist</url>
+   </set>
+   <set id="gastro">
+    <name>Врач-гастроэнтеролог</name>
+    <url>https://medaviko.ru/gastro</url>
+   </set>
+   <set id="ginekolog">
+    <name>Врач акушер-гинеколог</name>
+    <url>https://medaviko.ru/gynecologist</url>
    </set>
   </sets>
   <offers>
@@ -69,7 +81,7 @@
     <!--Принимает взрослых, от 18 лет-->
     <param name="Детский врач">false</param>
     <!--Принимает детей, до 18 лет-->
-    <param name="Ссылка на профиль врача">https://medaviko.ru/doctors#popup:sinitsin</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/sinitsin</param>
     <param name="Город клиники">г. Курск</param>
     <param name="Адрес клиники">Магистральный проезд, 11Е</param>
     <param name="Название клиники">Медицинский центр «Медавико»</param>
@@ -92,6 +104,8 @@
     <param name="Сертификат - 1" unit="Дата">2020</param>
     <param name="Сертификат - 1" unit="Название">Сертификат специалиста по специальности "Стоматология ортопедическая"</param>
    </offer>
+
+
    <offer id="vrach2">
     <name>Чуканов Виктор Владимирович</name>
     
@@ -121,7 +135,7 @@
     <param name="Детский врач">false</param>
     <!--Принимает детей, до 18 лет-->
 
-    <param name="Ссылка на профиль врача">https://medaviko.ru/doctors#popup:tcukanov</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/tcukanov</param>
     <param name="Город клиники">г. Курск</param>
     <param name="Адрес клиники">Магистральный проезд, 11Е</param>
     <param name="Название клиники">Медицинский центр «Медавико»</param>
@@ -144,18 +158,20 @@
     <param name="Сертификат - 1" unit="Дата">2020</param>
     <param name="Сертификат - 1" unit="Название">Удостоверение о повышении квалификации по дополнительной профессиональной программе "Рентгенология"</param>
    </offer>
+
+
    <offer id="vrach3">
     <name>Дубонос Дарья Владимировна</name>
     
     <url>https://medaviko.ru/doctors/dubonos</url>
     <!--URL карточки врача. -->
-    <price from="true">3000</price>
+    <price from="true">1400</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
-    <oldprice>4000</oldprice>
+    <oldprice>1400</oldprice>
     <!--Цена приема в клинике, должна быть не ниже price-->
     <currencyId>RUR</currencyId>
     <sales_notes>Первичный прием</sales_notes>
-    <set-ids>terapevt,khirurg</set-ids>
+    <set-ids>otolaringolog</set-ids>
     <!--специальности через запятую-->
     <picture>https://static.tildacdn.com/tild3966-3162-4865-a435-656363616633/IMG_2544JPEG.jpg</picture>
     <description>Владеет основными методами оториноларингологии</description>
@@ -173,7 +189,7 @@
     <param name="Детский врач">false</param>
     <!--Принимает детей, до 18 лет-->
 
-    <param name="Ссылка на профиль врача">https://medaviko.ru/doctors#popup:dubonos</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/dubonos</param>
     <param name="Город клиники">г. Курск</param>
     <param name="Адрес клиники">Магистральный проезд, 11Е</param>
     <param name="Название клиники">Медицинский центр «Медавико»</param>
@@ -193,6 +209,260 @@
     <param name="Место работы - 1" unit="Организация">Медицинский центр «Медавико»</param>
     <param name="Место работы - 1" unit="Дата">2023</param>
    </offer>
+   <offer id="vrach4">
+    <name>Тимашова Ольга Александровна</name>
+    
+    <url>https://medaviko.ru/doctors/timashova</url>
+    <!--URL карточки врача. -->
+    <price from="true">1400</price>
+    <!--Цена приема при записи в источнике фида, с учетом скидки -->
+    <oldprice>1600</oldprice>
+    <!--Цена приема в клинике, должна быть не ниже price-->
+    <currencyId>RUR</currencyId>
+    <sales_notes>Первичный прием</sales_notes>
+    <set-ids>endokrinolog</set-ids>
+    <!--специальности через запятую-->
+    <picture>https://static.tildacdn.com/tild3632-3736-4335-b635-663434333334/timashova.jpg</picture>
+    <description>Владеет основными методами эндокринологии</description>
+    <categoryId>1</categoryId>
+    <!--Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида-->
+    <param name="Фамилия">Тимашова</param>
+    <param name="Имя">Ольга</param>
+    <param name="Отчество">Александровна</param>
+    <param name="Годы опыта">7</param>
+    <param name="Начало карьеры">2017-01-01</param>
+    <!--Дата начала карьеры, для подсчета стажа-->
+    <param name="Город">г. Курск</param>
+    <param name="Взрослый врач">true</param>
+    <!--Принимает взрослых, от 18 лет-->
+    <param name="Детский врач">false</param>
+    <!--Принимает детей, до 18 лет-->
+
+    <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/timashova</param>
+    <param name="Город клиники">г. Курск</param>
+    <param name="Адрес клиники">Магистральный проезд, 11Е</param>
+    <param name="Название клиники">Медицинский центр «Медавико»</param>
+    <param name="Возможность записи">true</param>
+    <!--Возможность записаться на прием через сайт-поставщик фида-->
+    <param name="Онлайн-расписание">true</param>
+    <param name="Телефон для записи">+7 (4712) 25-47-03</param>
+    <!--Можно подменник аггрегатора-->
+    <param name="Образование - 1" unit="Организация">Курский Государственный Медицинский Университет</param>
+    <param name="Образование - 1" unit="Дата">2017</param>
+    <param name="Образование - 1" unit="Название">Базовое образование</param>
+    <param name="Образование - 1" unit="Специальность">Лечебное дело</param>
+    <param name="Образование - 2" unit="Организация">ФГБОУ ВО «СЗГМУ им. Мечникова» МЗ РФ</param>
+    <param name="Образование - 2" unit="Дата">2020</param>
+    <param name="Образование - 2" unit="Название">Профессиональная переподготовка</param>
+    <param name="Образование - 2" unit="Специальность">Эндокринология</param>
+    <param name="Место работы - 1" unit="Организация">Медицинский центр «Медавико»</param>
+    <param name="Место работы - 1" unit="Дата">2023</param>
+   </offer>
+   <offer id="vrach5">
+    <name>Сошникова Наталья Витальевна</name>
+    
+    <url>https://medaviko.ru/doctors/soshnikova</url>
+    <!--URL карточки врача. -->
+    <price from="true">1500</price>
+    <!--Цена приема при записи в источнике фида, с учетом скидки -->
+    <oldprice>1500</oldprice>
+    <!--Цена приема в клинике, должна быть не ниже price-->
+    <currencyId>RUR</currencyId>
+    <sales_notes>Прием врача-гастроэнтеролога первичный</sales_notes>
+    <set-ids>gastro</set-ids>
+    <!--специальности через запятую-->
+    <picture>https://static.tildacdn.com/tild3434-3438-4339-b737-383962613831/IMG_2545JPEG.jpg</picture>
+    <description>Владеет основными методами лечения и диагностирования, и профилактики заболеваний желудочно-кишечного тракта.
+    </description>
+    <categoryId>1</categoryId>
+    <!--Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида-->
+    <param name="Фамилия">Сошникова</param>
+    <param name="Имя">Наталья</param>
+    <param name="Отчество">Витальевна</param>
+    <param name="Годы опыта">21</param>
+    <param name="Начало карьеры">2003-06-01</param>
+    <!--Дата начала карьеры, для подсчета стажа-->
+    <param name="Город">г. Курск</param>
+    <param name="Взрослый врач">true</param>
+    <!--Принимает взрослых, от 18 лет-->
+    <param name="Детский врач">false</param>
+    <!--Принимает детей, до 18 лет-->
+    <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/soshnikova</param>
+    <param name="Город клиники">г. Курск</param>
+    <param name="Адрес клиники">Магистральный проезд, 11Е</param>
+    <param name="Название клиники">Медицинский центр «Медавико»</param>
+    <param name="Возможность записи">true</param>
+    <!--Возможность записаться на прием через сайт-поставщик фида-->
+    <param name="Онлайн-расписание">true</param>
+    <param name="Телефон для записи">+7 (4712) 25-47-03</param>
+    <!--Можно подменник аггрегатора-->
+    <param name="Образование - 1" unit="Организация">Курский Государственный Медицинский Университет</param>
+    <param name="Образование - 1" unit="Дата">2003</param>
+    <param name="Образование - 1" unit="Название">Базовое образование</param>
+    <param name="Образование - 1" unit="Специальность">Гастроэнтерология</param>
+    <param name="Образование - 2" unit="Организация">Курский Государственный Медицинский Университет</param>
+    <param name="Образование - 2" unit="Дата">2005</param>
+    <param name="Образование - 2" unit="Название">Профессиональная переподготовка</param>
+    <param name="Образование - 2" unit="Специальность">Гастроэнтерология</param>
+    <param name="Место работы - 1" unit="Организация">Медицинский центр «Медавико»</param>
+    <param name="Место работы - 1" unit="Дата">2023</param>
+    <param name="Сертификат - 1" unit="Организация">Центр Специализированного Образования "Проф-Ресурс"</param>
+    <param name="Сертификат - 1" unit="Дата">2019</param>
+    <param name="Сертификат - 1" unit="Название">Сертификат специалиста по специальности "Ультразвуковая диагностика"</param>
+   </offer>
+   <offer id="vrach6">
+    <name>Климов Борис Борисович</name>
+    
+    <url>https://medaviko.ru/doctors/klimov</url>
+    <!--URL карточки врача. -->
+    <price from="true">1400</price>
+    <!--Цена приема при записи в источнике фида, с учетом скидки -->
+    <oldprice>1400</oldprice>
+    <!--Цена приема в клинике, должна быть не ниже price-->
+    <currencyId>RUR</currencyId>
+    <sales_notes>Прием врача-оториноларинголога первичный</sales_notes>
+    <set-ids>gastro</set-ids>
+    <!--специальности через запятую-->
+    <picture>https://static.tildacdn.com/tild3234-6237-4138-a539-643462373036/IMG_8871JPG.jpg</picture>
+    <description>Владеет основными методами лечения и диагностирования заболеваний, связанных с носом, горлом и ушами.
+    </description>
+    <categoryId>1</categoryId>
+    <!--Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида-->
+    <param name="Фамилия">Климов</param>
+    <param name="Имя">Борис</param>
+    <param name="Отчество">Борисович</param>
+    <param name="Годы опыта">13</param>
+    <param name="Начало карьеры">2011-06-01</param>
+    <!--Дата начала карьеры, для подсчета стажа-->
+    <param name="Город">г. Курск</param>
+    <param name="Взрослый врач">true</param>
+    <!--Принимает взрослых, от 18 лет-->
+    <param name="Детский врач">false</param>
+    <!--Принимает детей, до 18 лет-->
+    <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/klimov</param>
+    <param name="Город клиники">г. Курск</param>
+    <param name="Адрес клиники">Магистральный проезд, 11Е</param>
+    <param name="Название клиники">Медицинский центр «Медавико»</param>
+    <param name="Возможность записи">true</param>
+    <!--Возможность записаться на прием через сайт-поставщик фида-->
+    <param name="Онлайн-расписание">true</param>
+    <param name="Телефон для записи">+7 (4712) 25-47-03</param>
+    <!--Можно подменник аггрегатора-->
+    <param name="Образование - 1" unit="Организация">Курский Государственный Медицинский Университет</param>
+    <param name="Образование - 1" unit="Дата">2011</param>
+    <param name="Образование - 1" unit="Название">Базовое образование</param>
+    <param name="Образование - 1" unit="Специальность">Врач</param>
+    <param name="Место работы - 1" unit="Организация">Медицинский центр «Медавико»</param>
+    <param name="Место работы - 1" unit="Дата">2023</param>
+    <param name="Сертификат - 1" unit="Организация">ФГБОУ ДПО «Российская медицинская академия непрерывного профессионального образования»</param>
+    <param name="Сертификат - 1" unit="Дата">2023</param>
+    <param name="Сертификат - 1" unit="Название">Сертификат специалиста по специальности "Врач-оториноларинголог"</param>
+   </offer>
+   <offer id="vrach7">
+    <name>Воробьёва Маргарита Александровна</name>
+    
+    <url>https://medaviko.ru/doctors/vorobeva</url>
+    <!--URL карточки врача. -->
+    <price from="true">1400</price>
+    <!--Цена приема при записи в источнике фида, с учетом скидки -->
+    <oldprice>1400</oldprice>
+    <!--Цена приема в клинике, должна быть не ниже price-->
+    <currencyId>RUR</currencyId>
+    <sales_notes>Первичный прием врача-акушера-гинеколога</sales_notes>
+    <set-ids>ginekolog</set-ids>
+    <!--специальности через запятую-->
+    <picture>https://static.tildacdn.com/tild3337-3337-4365-b137-363065353865/005.jpg</picture>
+    <description>Владеет основными методами лечения, диагностирования и предотвращения заболеваний женских репродуктивных органов и беременности.
+    </description>
+    <categoryId>1</categoryId>
+    <!--Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида-->
+    <param name="Фамилия">Воробьёва</param>
+    <param name="Имя">Маргарита</param>
+    <param name="Отчество">Александровна</param>
+    <param name="Годы опыта">9</param>
+    <param name="Начало карьеры">2015-06-01</param>
+    <!--Дата начала карьеры, для подсчета стажа-->
+    <param name="Город">г. Курск</param>
+    <param name="Взрослый врач">true</param>
+    <!--Принимает взрослых, от 18 лет-->
+    <param name="Детский врач">false</param>
+    <!--Принимает детей, до 18 лет-->
+    <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/vorobeva</param>
+    <param name="Город клиники">г. Курск</param>
+    <param name="Адрес клиники">Магистральный проезд, 11Е</param>
+    <param name="Название клиники">Медицинский центр «Медавико»</param>
+    <param name="Возможность записи">true</param>
+    <!--Возможность записаться на прием через сайт-поставщик фида-->
+    <param name="Онлайн-расписание">true</param>
+    <param name="Телефон для записи">+7 (4712) 25-47-03</param>
+    <!--Можно подменник аггрегатора-->
+    <param name="Образование - 1" unit="Организация">Курский Государственный Медицинский Университет</param>
+    <param name="Образование - 1" unit="Дата">2015</param>
+    <param name="Образование - 1" unit="Название">Базовое образование</param>
+    <param name="Образование - 1" unit="Специальность">Лечебное дело</param>
+    <param name="Образование - 2" unit="Организация">НОЧУДПО "Высшая медицинская школа"</param>
+    <param name="Образование - 2" unit="Дата">2019</param>
+    <param name="Образование - 2" unit="Название">Профессиональная переподготовка</param>
+    <param name="Образование - 2" unit="Специальность">Актуальные вопросы эндокринной патологии у женщин</param>
+    <param name="Место работы - 1" unit="Организация">Медицинский центр «Медавико»</param>
+    <param name="Место работы - 1" unit="Дата">2023</param>
+    <param name="Сертификат - 1" unit="Организация">НОЧУДПО "Высшая медицинская школа"</param>
+    <param name="Сертификат - 1" unit="Дата">2021</param>
+    <param name="Сертификат - 1" unit="Название">Актуальные вопросы современного акушерства и гинекологической помощи</param>
+   </offer>
+   <offer id="vrach8">
+    <name>Прозоров Михаил Андреевич</name>
+    
+    <url>https://medaviko.ru/doctors/prozorov</url>
+    <!--URL карточки врача. -->
+    <price from="true">1400</price>
+    <!--Цена приема при записи в источнике фида, с учетом скидки -->
+    <oldprice>1400</oldprice>
+    <!--Цена приема в клинике, должна быть не ниже price-->
+    <currencyId>RUR</currencyId>
+    <sales_notes>Первичный прием врача-терапевта</sales_notes>
+    <set-ids>terapevt</set-ids>
+    <!--специальности через запятую-->
+    <picture>https://static.tildacdn.com/tild3337-6238-4637-b461-623963643638/064.jpg</picture>
+    <description>Владеет основными методами лечения и диагностирования различных заболеваний, как взрослых, так и детей.
+    </description>
+    <categoryId>1</categoryId>
+    <!--Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида-->
+    <param name="Фамилия">Прозоров</param>
+    <param name="Имя">Михаил</param>
+    <param name="Отчество">Андреевич</param>
+    <param name="Годы опыта">13</param>
+    <param name="Начало карьеры">2011-06-01</param>
+    <!--Дата начала карьеры, для подсчета стажа-->
+    <param name="Город">г. Курск</param>
+    <param name="Взрослый врач">true</param>
+    <!--Принимает взрослых, от 18 лет-->
+    <param name="Детский врач">false</param>
+    <!--Принимает детей, до 18 лет-->
+    <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/prozorov</param>
+    <param name="Город клиники">г. Курск</param>
+    <param name="Адрес клиники">Магистральный проезд, 11Е</param>
+    <param name="Название клиники">Медицинский центр «Медавико»</param>
+    <param name="Возможность записи">true</param>
+    <!--Возможность записаться на прием через сайт-поставщик фида-->
+    <param name="Онлайн-расписание">true</param>
+    <param name="Телефон для записи">+7 (4712) 25-47-03</param>
+    <!--Можно подменник аггрегатора-->
+    <param name="Образование - 1" unit="Организация">Курский Государственный Медицинский Университет</param>
+    <param name="Образование - 1" unit="Дата">2011</param>
+    <param name="Образование - 1" unit="Название">Базовое образование</param>
+    <param name="Образование - 1" unit="Специальность">Лечебное дело</param>
+    <param name="Образование - 2" unit="Организация">Курский Государственный Медицинский Университет</param>
+    <param name="Образование - 2" unit="Дата">2023</param>
+    <param name="Образование - 2" unit="Название">Профессиональная переподготовка</param>
+    <param name="Образование - 2" unit="Специальность">Профессиональная переподготовка по программе «Терапия»</param>
+    <param name="Место работы - 1" unit="Организация">Медицинский центр «Медавико»</param>
+    <param name="Место работы - 1" unit="Дата">2023</param>
+   </offer>
+
+
+
+
    
 
   </offers>

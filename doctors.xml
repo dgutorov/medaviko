@@ -1007,7 +1007,7 @@
     <oldprice>2500</oldprice>
     <!--Цена приема в клинике, должна быть не ниже price-->
     <currencyId>RUR</currencyId>
-    <sales_notes>Профессиональная гигиена полости рта и зубов/Ультразвук + полировка</sales_notes>
+    <sales_notes>Профессиональная гигиена полости рта и зубов</sales_notes>
     <set-ids>stomatgigienist</set-ids>
     <!--специальности через запятую-->
     <picture>https://static.tildacdn.com/tild6433-6662-4333-a664-383466656332/438.jpg</picture>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<yml_catalog date="2024-10-12 00:10">
+<yml_catalog date="2024-10-14 00:10">
  <shop>
   <name>Врачи.Медавико</name>
   <company>ООО Медавико</company>
@@ -32,7 +32,7 @@
    </set>
    <set id="terapevt">
     <name>Врач-терапевт</name>
-    <url>https://medaviko.ru/terapevt</url>
+    <url>https://medaviko.ru/therapist</url>
    </set>
    <set id="otolaringolog">
     <name>Врач-оториноларинголог</name>
@@ -97,6 +97,30 @@
    <set id="endoskopist">
     <name>Врач-эндоскопист</name>
     <url>https://medaviko.ru/endoskopist</url>
+   </set>
+   <set id="psihoterapevt">
+    <name>Врач-психотерапевт</name>
+    <url>https://medaviko.ru/psihoterapevt</url>
+   </set>
+   <set id="sshirurg">
+    <name>Врач сердечно-сосудистый хирург</name>
+    <url>https://medaviko.ru/surgeon</url>
+   </set>
+   <set id="mammolog">
+    <name>Маммолог</name>
+    <url>https://medaviko.ru/mammolog</url>
+   </set>
+   <set id="ker">
+    <name>Заместитель главного врача по КЭР</name>
+    <url>https://medaviko.ru/ker</url>
+   </set>
+   <set id="neonatolog">
+    <name>Неонатолог</name>
+    <url>https://medaviko.ru/neonatolog</url>
+   </set>
+   <set id="zubvrach">
+    <name>Зубной врач</name>
+    <url>https://medaviko.ru/zubvrach</url>
    </set>
   </sets>
   <offers>
@@ -234,7 +258,7 @@
     <param name="Город">г. Курск</param>
     <param name="Взрослый врач">true</param>
     <!--Принимает взрослых, от 18 лет-->
-    <param name="Детский врач">false</param>
+    <param name="Детский врач">true</param>
     <!--Принимает детей, до 18 лет-->
 
     <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/dubonos</param>
@@ -317,7 +341,7 @@
     <!--Цена приема в клинике, должна быть не ниже price-->
     <currencyId>RUR</currencyId>
     <sales_notes>Прием врача-гастроэнтеролога первичный</sales_notes>
-    <set-ids>gastro</set-ids>
+    <set-ids>gastro,uzd</set-ids>
     <!--специальности через запятую-->
     <picture>https://static.tildacdn.com/tild3434-3438-4339-b737-383962613831/IMG_2545JPEG.jpg</picture>
     <description>Владеет основными методами лечения и диагностирования, и профилактики заболеваний желудочно-кишечного тракта.
@@ -333,7 +357,7 @@
     <param name="Город">г. Курск</param>
     <param name="Взрослый врач">true</param>
     <!--Принимает взрослых, от 18 лет-->
-    <param name="Детский врач">false</param>
+    <param name="Детский врач">true</param>
     <!--Принимает детей, до 18 лет-->
     <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/soshnikova</param>
     <param name="Город клиники">г. Курск</param>
@@ -385,7 +409,7 @@
     <param name="Город">г. Курск</param>
     <param name="Взрослый врач">true</param>
     <!--Принимает взрослых, от 18 лет-->
-    <param name="Детский врач">false</param>
+    <param name="Детский врач">true</param>
     <!--Принимает детей, до 18 лет-->
     <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/klimov</param>
     <param name="Город клиники">г. Курск</param>
@@ -417,7 +441,7 @@
     <!--Цена приема в клинике, должна быть не ниже price-->
     <currencyId>RUR</currencyId>
     <sales_notes>Первичный прием врача-акушера-гинеколога</sales_notes>
-    <set-ids>ginekolog</set-ids>
+    <set-ids>ginekolog,uzd</set-ids>
     <!--специальности через запятую-->
     <picture>https://static.tildacdn.com/tild3337-3337-4365-b137-363065353865/005.jpg</picture>
     <description>Владеет основными методами лечения, диагностирования и предотвращения заболеваний женских репродуктивных органов и беременности.
@@ -433,7 +457,7 @@
     <param name="Город">г. Курск</param>
     <param name="Взрослый врач">true</param>
     <!--Принимает взрослых, от 18 лет-->
-    <param name="Детский врач">false</param>
+    <param name="Детский врач">true</param>
     <!--Принимает детей, до 18 лет-->
     <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/vorobeva</param>
     <param name="Город клиники">г. Курск</param>
@@ -469,7 +493,7 @@
     <!--Цена приема в клинике, должна быть не ниже price-->
     <currencyId>RUR</currencyId>
     <sales_notes>Первичный прием врача-терапевта</sales_notes>
-    <set-ids>terapevt</set-ids>
+    <set-ids>terapevt,kardiolog</set-ids>
     <!--специальности через запятую-->
     <picture>https://static.tildacdn.com/tild3337-6238-4637-b461-623963643638/064.jpg</picture>
     <description>Владеет основными методами лечения и диагностирования различных заболеваний, как взрослых, так и детей.
@@ -518,7 +542,7 @@
     <!--Цена приема в клинике, должна быть не ниже price-->
     <currencyId>RUR</currencyId>
     <sales_notes>Прием врача-кардиолога первичный</sales_notes>
-    <set-ids>kardiolog</set-ids>
+    <set-ids>kardiolog,funcdiagnost</set-ids>
     <!--специальности через запятую-->
     <picture>https://static.tildacdn.com/tild3539-3433-4464-b864-343735386163/IMG_0501.jpg</picture>
     <description>Владеет основными методами лечения и диагностирования заболеваний сердечно-сосудистой системы.
@@ -566,7 +590,7 @@
     <!--Цена приема в клинике, должна быть не ниже price-->
     <currencyId>RUR</currencyId>
     <sales_notes>Прием врача-нейрохирурга первичный</sales_notes>
-    <set-ids>neirohirurg</set-ids>
+    <set-ids>neirohirurg,ortoped</set-ids>
     <!--специальности через запятую-->
     <picture>https://static.tildacdn.com/tild3466-6562-4439-b363-646163353130/IMG_0542_-__-_2024-0.jpg</picture>
     <description>Владеет основными методами лечения и диагностирования заболеваний центральной и периферической нервной системы.
@@ -582,7 +606,7 @@
     <param name="Город">г. Курск</param>
     <param name="Взрослый врач">true</param>
     <!--Принимает взрослых, от 18 лет-->
-    <param name="Детский врач">false</param>
+    <param name="Детский врач">true</param>
     <!--Принимает детей, до 18 лет-->
     <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/polyakov</param>
     <param name="Город клиники">г. Курск</param>
@@ -614,7 +638,7 @@
     <!--Цена приема в клинике, должна быть не ниже price-->
     <currencyId>RUR</currencyId>
     <sales_notes>Первичный прием врача-акушера-гинеколога</sales_notes>
-    <set-ids>ginekolog</set-ids>
+    <set-ids>ginekolog,uzd</set-ids>
     <!--специальности через запятую-->
     <picture>https://static.tildacdn.com/tild3566-3937-4430-a163-613137643963/IMG_7060JPG.jpg</picture>
     <description>Владеет основными методами лечения, диагностирования и предотвращения заболеваний женских репродуктивных органов и беременности.
@@ -715,7 +739,7 @@
     <!--Цена приема в клинике, должна быть не ниже price-->
     <currencyId>RUR</currencyId>
     <sales_notes>Первичный прием врача-хирурга</sales_notes>
-    <set-ids>khirurg</set-ids>
+    <set-ids>khirurg,uzd,sshirurg</set-ids>
     <!--специальности через запятую-->
     <picture>https://static.tildacdn.com/tild6330-3866-4335-b864-393365653931/330.jpg</picture>
     <description>Владеет методами лечения и травмы всех областей и органов тела человека, которые в той или иной мере сопровождаются нарушением целостности тканей организма.
@@ -831,7 +855,7 @@
     <param name="Город">г. Курск</param>
     <param name="Взрослый врач">true</param>
     <!--Принимает взрослых, от 18 лет-->
-    <param name="Детский врач">false</param>
+    <param name="Детский врач">true</param>
     <!--Принимает детей, до 18 лет-->
 
     <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/kravcova</param>
@@ -880,7 +904,7 @@
     <param name="Город">г. Курск</param>
     <param name="Взрослый врач">true</param>
     <!--Принимает взрослых, от 18 лет-->
-    <param name="Детский врач">false</param>
+    <param name="Детский врач">true</param>
     <!--Принимает детей, до 18 лет-->
 
     <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/pevchev</param>
@@ -1265,7 +1289,7 @@
     <param name="Город">г. Курск</param>
     <param name="Взрослый врач">true</param>
     <!--Принимает взрослых, от 18 лет-->
-    <param name="Детский врач">false</param>
+    <param name="Детский врач">true</param>
     <!--Принимает детей, до 18 лет-->
     <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/belousova</param>
     <param name="Город клиники">г. Курск</param>
@@ -1347,7 +1371,7 @@
     <!--Цена приема в клинике, должна быть не ниже price-->
     <currencyId>RUR</currencyId>
     <sales_notes>Холтеровское мониторирование сердечного ритма</sales_notes>
-    <set-ids>uzd</set-ids>
+    <set-ids>uzd,neonatolog</set-ids>
     <!--специальности через запятую-->
     <picture>https://static.tildacdn.com/tild6337-3863-4965-b035-393931343231/850.jpg</picture>
     <description>Владеет основными методами диагностирования, которые позволяют оценить функциональное состояние организма в целом.
@@ -1363,7 +1387,7 @@
     <param name="Город">г. Курск</param>
     <param name="Взрослый врач">true</param>
     <!--Принимает взрослых, от 18 лет-->
-    <param name="Детский врач">false</param>
+    <param name="Детский врач">true</param>
     <!--Принимает детей, до 18 лет-->
     <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/tchukanova</param>
     <param name="Город клиники">г. Курск</param>
@@ -1412,7 +1436,7 @@
     <param name="Город">г. Курск</param>
     <param name="Взрослый врач">true</param>
     <!--Принимает взрослых, от 18 лет-->
-    <param name="Детский врач">false</param>
+    <param name="Детский врач">true</param>
     <!--Принимает детей, до 18 лет-->
     <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/belyaeva</param>
     <param name="Город клиники">г. Курск</param>
@@ -1445,7 +1469,7 @@
     <!--Цена приема в клинике, должна быть не ниже price-->
     <currencyId>RUR</currencyId>
     <sales_notes>Прием врача-онколога первичный</sales_notes>
-    <set-ids>onkolog</set-ids>
+    <set-ids>onkolog,mammolog</set-ids>
     <!--специальности через запятую-->
     <picture>https://static.tildacdn.com/tild3761-3933-4964-b035-616330396532/751_-__-_2024-07-09_.jpg</picture>
     <description>Владеет основными методами диагностирования, лечения и профилактики злокачественных новообразований или рака.
@@ -1494,7 +1518,7 @@
     <!--Цена приема в клинике, должна быть не ниже price-->
     <currencyId>RUR</currencyId>
     <sales_notes>Прием врача-онколога первичный</sales_notes>
-    <set-ids>onkolog</set-ids>
+    <set-ids>onkolog,mammolog</set-ids>
     <!--специальности через запятую-->
     <picture>https://static.tildacdn.com/tild6263-3439-4833-a262-613965643662/IMG_8583.jpg</picture>
     <description>Владеет основными методами диагностирования, лечения и профилактики злокачественных новообразований или рака.
@@ -1510,7 +1534,7 @@
     <param name="Город">г. Курск</param>
     <param name="Взрослый врач">true</param>
     <!--Принимает взрослых, от 18 лет-->
-    <param name="Детский врач">false</param>
+    <param name="Детский врач">true</param>
     <!--Принимает детей, до 18 лет-->
     <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/pashkova</param>
     <param name="Город клиники">г. Курск</param>
@@ -1543,7 +1567,7 @@
     <!--Цена приема в клинике, должна быть не ниже price-->
     <currencyId>RUR</currencyId>
     <sales_notes>Прием врача-онколога первичный</sales_notes>
-    <set-ids>onkolog</set-ids>
+    <set-ids>onkolog,mammolog</set-ids>
     <!--специальности через запятую-->
     <picture>https://static.tildacdn.com/tild6236-3762-4830-b638-376366656365/17140674301931330001.jpg</picture>
     <description>Владеет основными методами диагностирования, лечения и профилактики злокачественных новообразований или рака.
@@ -1608,7 +1632,7 @@
     <param name="Город">г. Курск</param>
     <param name="Взрослый врач">true</param>
     <!--Принимает взрослых, от 18 лет-->
-    <param name="Детский врач">false</param>
+    <param name="Детский врач">true</param>
     <!--Принимает детей, до 18 лет-->
     <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/lavrenova</param>
     <param name="Город клиники">г. Курск</param>
@@ -1641,7 +1665,7 @@
     <!--Цена приема в клинике, должна быть не ниже price-->
     <currencyId>RUR</currencyId>
     <sales_notes>Прием врача-невролога первичный</sales_notes>
-    <set-ids>nevrolog</set-ids>
+    <set-ids>nevrolog,funcdiagnost</set-ids>
     <!--специальности через запятую-->
     <picture>https://static.tildacdn.com/tild6135-6436-4363-b634-353265666365/IMG_0983.jpg</picture>
     <description>Владеет основными методами диагностики и лечения заболеваний нервной системы.
@@ -1788,7 +1812,7 @@
     <!--Цена приема в клинике, должна быть не ниже price-->
     <currencyId>RUR</currencyId>
     <sales_notes>Прием врача-кардиолога первичный</sales_notes>
-    <set-ids>kardiolog</set-ids>
+    <set-ids>kardiolog,uzd</set-ids>
     <!--специальности через запятую-->
     <picture>https://static.tildacdn.com/tild3363-3965-4665-b631-653139646165/IMG_7328.jpg</picture>
     <description>Владеет основными методами лечения и диагностирования заболеваний сердечно-сосудистой системы.
@@ -1823,6 +1847,55 @@
     <param name="Образование - 2" unit="Дата">2008</param>
     <param name="Образование - 2" unit="Название">Профессиональная переподготовка</param>
     <param name="Образование - 2" unit="Специальность">Профессиональная переподготовка по программе «кардиология»</param>
+    <param name="Место работы - 1" unit="Организация">Медицинский центр «Медавико»</param>
+    <param name="Место работы - 1" unit="Дата">2023</param>
+   </offer>
+   <offer id="vrach37">
+    <name>Браженко Татьяна Витальевна</name>
+    
+    <url>https://medaviko.ru/doctors/brajenko</url>
+    <!--URL карточки врача. -->
+    <price from="true">1200</price>
+    <!--Цена приема при записи в источнике фида, с учетом скидки -->
+    <oldprice>1200</oldprice>
+    <!--Цена приема в клинике, должна быть не ниже price-->
+    <currencyId>RUR</currencyId>
+    <sales_notes>Прием врача-психотерапевта</sales_notes>
+    <set-ids>psihoterapevt</set-ids>
+    <!--специальности через запятую-->
+    <picture>https://static.tildacdn.com/tild3263-6466-4762-a634-303661323630/IMG_1212.jpg</picture>
+    <description>Соблюдают тонкую грань между медицинскими и психотерапевтическими методами, даруя, тем самым, душевное благосостояние.
+    </description>
+    <categoryId>1</categoryId>
+    <!--Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида-->
+    <param name="Фамилия">Браженко</param>
+    <param name="Имя">Татьяна</param>
+    <param name="Отчество">Витальевна</param>
+    <param name="Годы опыта">25</param>
+    <param name="Начало карьеры">1999-06-01</param>
+    <!--Дата начала карьеры, для подсчета стажа-->
+    <param name="Город">г. Курск</param>
+    <param name="Взрослый врач">true</param>
+    <!--Принимает взрослых, от 18 лет-->
+    <param name="Детский врач">false</param>
+    <!--Принимает детей, до 18 лет-->
+    <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/brajenko</param>
+    <param name="Город клиники">г. Курск</param>
+    <param name="Адрес клиники">Магистральный проезд, 11Е</param>
+    <param name="Название клиники">Медицинский центр «Медавико»</param>
+    <param name="Возможность записи">true</param>
+    <!--Возможность записаться на прием через сайт-поставщик фида-->
+    <param name="Онлайн-расписание">true</param>
+    <param name="Телефон для записи">+7 (4712) 25-47-03</param>
+    <!--Можно подменник аггрегатора-->
+    <param name="Образование - 1" unit="Организация">Курский Государственный Медицинский Университет</param>
+    <param name="Образование - 1" unit="Дата">1999</param>
+    <param name="Образование - 1" unit="Название">Базовое образование</param>
+    <param name="Образование - 1" unit="Специальность">Врач</param>
+    <param name="Образование - 2" unit="Организация">Курский Государственный Медицинский Университет</param>
+    <param name="Образование - 2" unit="Дата">2005</param>
+    <param name="Образование - 2" unit="Название">Профессиональная переподготовка</param>
+    <param name="Образование - 2" unit="Специальность">Профессиональная переподготовка по специальности «Психотерапия»</param>
     <param name="Место работы - 1" unit="Организация">Медицинский центр «Медавико»</param>
     <param name="Место работы - 1" unit="Дата">2023</param>
    </offer>
@@ -1902,7 +1975,7 @@
     <param name="Город">г. Курск</param>
     <param name="Взрослый врач">true</param>
     <!--Принимает взрослых, от 18 лет-->
-    <param name="Детский врач">false</param>
+    <param name="Детский врач">true</param>
     <!--Принимает детей, до 18 лет-->
     <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/ryapisov</param>
     <param name="Город клиники">г. Курск</param>
@@ -1935,7 +2008,7 @@
     <!--Цена приема в клинике, должна быть не ниже price-->
     <currencyId>RUR</currencyId>
     <sales_notes>Электрокардиография с физической нагрузкой</sales_notes>
-    <set-ids>funcdiagnost</set-ids>
+    <set-ids>funcdiagnost,ker</set-ids>
     <!--специальности через запятую-->
     <picture>https://static.tildacdn.com/tild3739-3138-4134-a465-653864323565/_.jpg</picture>
     <description>Владеет основными методами диагностирования, которые позволяют оценить функциональное состояние организма в целом.
@@ -1951,7 +2024,7 @@
     <param name="Город">г. Курск</param>
     <param name="Взрослый врач">true</param>
     <!--Принимает взрослых, от 18 лет-->
-    <param name="Детский врач">false</param>
+    <param name="Детский врач">true</param>
     <!--Принимает детей, до 18 лет-->
     <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/zaring</param>
     <param name="Город клиники">г. Курск</param>
@@ -1984,7 +2057,7 @@
     <!--Цена приема в клинике, должна быть не ниже price-->
     <currencyId>RUR</currencyId>
     <sales_notes>Прием врача-стоматолога первичный</sales_notes>
-    <set-ids>stomatolog</set-ids>
+    <set-ids>zubvrach</set-ids>
     <!--специальности через запятую-->
     <picture>https://static.tildacdn.com/tild3437-6434-4634-a333-356264643364/IMG_2301-1.jpg</picture>
     <description>Владеет основными методами лечения и протезирования зубов.

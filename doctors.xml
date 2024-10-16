@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<yml_catalog date="2024-10-14 00:10">
+<yml_catalog date="2024-10-15 00:10">
  <shop>
   <name>Врачи.Медавико</name>
   <company>ООО Медавико</company>
@@ -121,6 +121,10 @@
    <set id="zubvrach">
     <name>Зубной врач</name>
     <url>https://medaviko.ru/zubvrach</url>
+   </set>
+   <set id="ortoped">
+    <name>Врач травматолог-ортопед</name>
+    <url>https://medaviko.ru/traumatologist</url>
    </set>
   </sets>
   <offers>

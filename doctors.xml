@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<yml_catalog date="2024-10-15 00:10">
+<yml_catalog date="2024-10-29 00:10">
  <shop>
   <name>Врачи.Медавико</name>
   <company>ООО Медавико</company>
@@ -887,9 +887,9 @@
     
     <url>https://medaviko.ru/doctors/pevchev</url>
     <!--URL карточки врача. -->
-    <price from="true">1400</price>
+    <price from="true">1600</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
-    <oldprice>1400</oldprice>
+    <oldprice>1600</oldprice>
     <!--Цена приема в клинике, должна быть не ниже price-->
     <currencyId>RUR</currencyId>
     <sales_notes>Первичный прием</sales_notes>
@@ -1614,9 +1614,9 @@
     
     <url>https://medaviko.ru/doctors/lavrenova</url>
     <!--URL карточки врача. -->
-    <price from="true">1400</price>
+    <price from="true">2500</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
-    <oldprice>1400</oldprice>
+    <oldprice>2500</oldprice>
     <!--Цена приема в клинике, должна быть не ниже price-->
     <currencyId>RUR</currencyId>
     <sales_notes>Прием врача-невролога первичный</sales_notes>
@@ -1859,9 +1859,9 @@
     
     <url>https://medaviko.ru/doctors/brajenko</url>
     <!--URL карточки врача. -->
-    <price from="true">1200</price>
+    <price from="true">2000</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
-    <oldprice>1200</oldprice>
+    <oldprice>2000</oldprice>
     <!--Цена приема в клинике, должна быть не ниже price-->
     <currencyId>RUR</currencyId>
     <sales_notes>Прием врача-психотерапевта</sales_notes>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<yml_catalog date="2024-10-29 00:10">
+<yml_catalog date="2024-11-06 00:10">
  <shop>
   <name>Врачи.Медавико</name>
   <company>ООО Медавико</company>
@@ -125,6 +125,14 @@
    <set id="ortoped">
     <name>Врач травматолог-ортопед</name>
     <url>https://medaviko.ru/traumatologist</url>
+   </set>
+   <set id="psiho">
+    <name>Врач-психиатр</name>
+    <url>https://medaviko.ru/psiho</url>
+   </set>
+   <set id="koloproktolog">
+    <name>Врач-колопроктолог</name>
+    <url>https://medaviko.ru/koloproktolog</url>
    </set>
   </sets>
   <offers>
@@ -439,9 +447,9 @@
     
     <url>https://medaviko.ru/doctors/vorobeva</url>
     <!--URL карточки врача. -->
-    <price from="true">1400</price>
+    <price from="true">1600</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
-    <oldprice>1400</oldprice>
+    <oldprice>1600</oldprice>
     <!--Цена приема в клинике, должна быть не ниже price-->
     <currencyId>RUR</currencyId>
     <sales_notes>Первичный прием врача-акушера-гинеколога</sales_notes>
@@ -2143,6 +2151,156 @@
     <param name="Образование - 2" unit="Специальность">Стоматология ортопедическая</param>
     <param name="Место работы - 1" unit="Организация">Медицинский центр «Медавико»</param>
     <param name="Место работы - 1" unit="Дата">2023</param>
+   </offer>
+   <offer id="vrach43">
+    <name>Толмачева Инна Олеговна</name>
+    
+    <url>https://medaviko.ru/doctors/tolmacheva</url>
+    <!--URL карточки врача. -->
+    <price from="true">2000</price>
+    <!--Цена приема при записи в источнике фида, с учетом скидки -->
+    <oldprice>3000</oldprice>
+    <!--Цена приема в клинике, должна быть не ниже price-->
+    <currencyId>RUR</currencyId>
+    <sales_notes>Прием врача-психиатра</sales_notes>
+    <set-ids>psiho</set-ids>
+    <!--специальности через запятую-->
+    <picture>https://static.tildacdn.com/tild6366-3830-4135-a564-616433666333/IMG_8263.jpg</picture>
+    <description>Соблюдают тонкую грань между медицинскими и психотерапевтическими методами, даруя, тем самым, душевное благосостояние.
+    </description>
+    <categoryId>1</categoryId>
+    <!--Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида-->
+    <param name="Фамилия">Толмачева</param>
+    <param name="Имя">Инна</param>
+    <param name="Отчество">Олеговна</param>
+    <param name="Годы опыта">10</param>
+    <param name="Начало карьеры">2014-06-01</param>
+    <!--Дата начала карьеры, для подсчета стажа-->
+    <param name="Город">г. Курск</param>
+    <param name="Взрослый врач">true</param>
+    <!--Принимает взрослых, от 18 лет-->
+    <param name="Детский врач">true</param>
+    <!--Принимает детей, до 18 лет-->
+    <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/tolmacheva</param>
+    <param name="Город клиники">г. Курск</param>
+    <param name="Адрес клиники">Магистральный проезд, 11Е</param>
+    <param name="Название клиники">Медицинский центр «Медавико»</param>
+    <param name="Возможность записи">true</param>
+    <!--Возможность записаться на прием через сайт-поставщик фида-->
+    <param name="Онлайн-расписание">true</param>
+    <param name="Телефон для записи">+7 (4712) 25-47-03</param>
+    <!--Можно подменник аггрегатора-->
+    <param name="Образование - 1" unit="Организация">Курский Государственный Медицинский Университет</param>
+    <param name="Образование - 1" unit="Дата">2014</param>
+    <param name="Образование - 1" unit="Название">Лечебное дело</param>
+    <param name="Образование - 1" unit="Специальность">Врач</param>
+    <param name="Образование - 2" unit="Организация">Курский Государственный Медицинский Университет</param>
+    <param name="Образование - 2" unit="Дата">2015</param>
+    <param name="Образование - 2" unit="Название">Интернатура</param>
+    <param name="Образование - 2" unit="Специальность">Интернатура по специальности «Психиатрия»</param>
+    <param name="Место работы - 1" unit="Организация">Медицинский центр «Медавико»</param>
+    <param name="Место работы - 1" unit="Дата">2024</param>
+   </offer>
+   <offer id="vrach44">
+    <name>Прудских Игорь Николаевич</name>
+    
+    <url>https://medaviko.ru/doctors/prudskih</url>
+    <!--URL карточки врача. -->
+    <price from="true">1400</price>
+    <!--Цена приема при записи в источнике фида, с учетом скидки -->
+    <oldprice>1400</oldprice>
+    <!--Цена приема в клинике, должна быть не ниже price-->
+    <currencyId>RUR</currencyId>
+    <sales_notes>Первичный прием врача-терапевта</sales_notes>
+    <set-ids>terapevt</set-ids>
+    <!--специальности через запятую-->
+    <picture>https://static.tildacdn.com/tild6239-3933-4262-b964-366132643765/IMG_8386.jpg</picture>
+    <description>Владеет основными методами лечения и диагностирования различных заболеваний, как взрослых, так и детей.
+    </description>
+    <categoryId>1</categoryId>
+    <!--Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида-->
+    <param name="Фамилия">Прудских</param>
+    <param name="Имя">Игорь</param>
+    <param name="Отчество">Николаевич</param>
+    <param name="Годы опыта">13</param>
+    <param name="Начало карьеры">2011-06-01</param>
+    <!--Дата начала карьеры, для подсчета стажа-->
+    <param name="Город">г. Курск</param>
+    <param name="Взрослый врач">true</param>
+    <!--Принимает взрослых, от 18 лет-->
+    <param name="Детский врач">false</param>
+    <!--Принимает детей, до 18 лет-->
+    <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/prudskih</param>
+    <param name="Город клиники">г. Курск</param>
+    <param name="Адрес клиники">Магистральный проезд, 11Е</param>
+    <param name="Название клиники">Медицинский центр «Медавико»</param>
+    <param name="Возможность записи">true</param>
+    <!--Возможность записаться на прием через сайт-поставщик фида-->
+    <param name="Онлайн-расписание">true</param>
+    <param name="Телефон для записи">+7 (4712) 25-47-03</param>
+    <!--Можно подменник аггрегатора-->
+    <param name="Образование - 1" unit="Организация">БПОУ ВО «Россошанский медицинский колледж»</param>
+    <param name="Образование - 1" unit="Дата">2011</param>
+    <param name="Образование - 1" unit="Название">Базовое образование</param>
+    <param name="Образование - 1" unit="Специальность">Лечебное дело</param>
+    <param name="Образование - 2" unit="Организация">Курский Государственный Медицинский Университет</param>
+    <param name="Образование - 2" unit="Дата">2017</param>
+    <param name="Образование - 2" unit="Название">Профессиональная переподготовка</param>
+    <param name="Образование - 2" unit="Специальность">Врач-лечебник</param>
+    <param name="Место работы - 1" unit="Организация">Медицинский центр «Медавико»</param>
+    <param name="Место работы - 1" unit="Дата">2024</param>
+   </offer>
+   <offer id="vrach45">
+    <name>Скориков Дмитрий Викторович</name>
+    
+    <url>https://medaviko.ru/doctors/skorikov</url>
+    <!--URL карточки врача. -->
+    <price from="true">1200</price>
+    <!--Цена приема при записи в источнике фида, с учетом скидки -->
+    <oldprice>1200</oldprice>
+    <!--Цена приема в клинике, должна быть не ниже price-->
+    <currencyId>RUR</currencyId>
+    <sales_notes>Первичный прием врача-хирурга</sales_notes>
+    <set-ids>khirurg,koloproktolog</set-ids>
+    <!--специальности через запятую-->
+    <picture>https://static.tildacdn.com/tild3433-6638-4664-a162-636263656637/IMG_8362.jpg</picture>
+    <description>Владеет методами лечения и травмы всех областей и органов тела человека, которые в той или иной мере сопровождаются нарушением целостности тканей организма.
+    </description>
+    <categoryId>1</categoryId>
+    <!--Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида-->
+    <param name="Фамилия">Скориков</param>
+    <param name="Имя">Дмитрий</param>
+    <param name="Отчество">Викторович</param>
+    <param name="Годы опыта">19</param>
+    <param name="Начало карьеры">2005-06-01</param>
+    <!--Дата начала карьеры, для подсчета стажа-->
+    <param name="Город">г. Курск</param>
+    <param name="Взрослый врач">true</param>
+    <!--Принимает взрослых, от 18 лет-->
+    <param name="Детский врач">false</param>
+    <!--Принимает детей, до 18 лет-->
+    <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/skorikov</param>
+    <param name="Город клиники">г. Курск</param>
+    <param name="Адрес клиники">Магистральный проезд, 11Е</param>
+    <param name="Название клиники">Медицинский центр «Медавико»</param>
+    <param name="Возможность записи">true</param>
+    <!--Возможность записаться на прием через сайт-поставщик фида-->
+    <param name="Онлайн-расписание">true</param>
+    <param name="Телефон для записи">+7 (4712) 25-47-03</param>
+    <!--Можно подменник аггрегатора-->
+    <param name="Образование - 1" unit="Организация">Курский Государственный Медицинский Университет</param>
+    <param name="Образование - 1" unit="Дата">2005</param>
+    <param name="Образование - 1" unit="Название">Базовое образование</param>
+    <param name="Образование - 1" unit="Специальность">Лечебное дело</param>
+    <param name="Образование - 2" unit="Организация">Международная Академия Экспертизы и Оценки (МАЭО)</param>
+    <param name="Образование - 2" unit="Дата">2019</param>
+    <param name="Образование - 2" unit="Название">Профессиональная переподготовка</param>
+    <param name="Образование - 2" unit="Специальность">Профессиональная переподготовка по специальности "Колопроктология"</param>
+    <param name="Место работы - 1" unit="Организация">Медицинский центр «Медавико»</param>
+    <param name="Место работы - 1" unit="Дата">2024</param>
+    <param name="Сертификат - 1" unit="Организация">Международная Академия Экспертизы и Оценки (МАЭО)</param>
+    <param name="Сертификат - 1" unit="Дата">2019</param>
+    <param name="Сертификат - 1" unit="Название">Сертификат по специальности «Колопроктология»</param>
    </offer>
 
   </offers>

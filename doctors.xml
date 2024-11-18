@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<yml_catalog date="2024-11-06 00:10">
+<yml_catalog date="2024-11-17 00:10">
  <shop>
   <name>Врачи.Медавико</name>
   <company>ООО Медавико</company>
@@ -133,6 +133,14 @@
    <set id="koloproktolog">
     <name>Врач-колопроктолог</name>
     <url>https://medaviko.ru/koloproktolog</url>
+   </set>
+   <set id="derma">
+    <name>Врач-дерматовенеролог</name>
+    <url>https://medaviko.ru/derma</url>
+   </set>
+   <set id="cosmetologia">
+    <name>Врач-косметолог</name>
+    <url>https://medaviko.ru/cosmetologia</url>
    </set>
   </sets>
   <offers>
@@ -2302,6 +2310,71 @@
     <param name="Сертификат - 1" unit="Дата">2019</param>
     <param name="Сертификат - 1" unit="Название">Сертификат по специальности «Колопроктология»</param>
    </offer>
+   <offer id="vrach46">
+    <name>Бобрышева Татьяна Николаевна</name>
+    
+    <url>https://medaviko.ru/doctors/bobrischewa</url>
+    <!--URL карточки врача. -->
+    <price from="true">1200</price>
+    <!--Цена приема при записи в источнике фида, с учетом скидки -->
+    <oldprice>1200</oldprice>
+    <!--Цена приема в клинике, должна быть не ниже price-->
+    <currencyId>RUR</currencyId>
+    <sales_notes>Первичный прием врача-дерматовенеролога</sales_notes>
+    <set-ids>derma,cosmetologia</set-ids>
+    <!--специальности через запятую-->
+    <picture>https://static.tildacdn.com/tild3435-3537-4635-a264-353763393661/IMG_8565.png</picture>
+    <description>Владеет методами ухода за кожей и улучшением её внешнего вида. 
+    </description>
+    <categoryId>1</categoryId>
+    <!--Пустых блоков param быть не должно. Если необязательное поле не заполнено, его нужно исключить из фида-->
+    <param name="Фамилия">Бобрышева</param>
+    <param name="Имя">Татьяна</param>
+    <param name="Отчество">Николаевна</param>
+    <param name="Годы опыта">15</param>
+    <param name="Начало карьеры">2009-06-01</param>
+    <!--Дата начала карьеры, для подсчета стажа-->
+    <param name="Город">г. Курск</param>
+    <param name="Взрослый врач">true</param>
+    <!--Принимает взрослых, от 18 лет-->
+    <param name="Детский врач">false</param>
+    <!--Принимает детей, до 18 лет-->
+    <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/bobrischewa</param>
+    <param name="Город клиники">г. Курск</param>
+    <param name="Адрес клиники">Магистральный проезд, 11Е</param>
+    <param name="Название клиники">Медицинский центр «Медавико»</param>
+    <param name="Возможность записи">true</param>
+    <!--Возможность записаться на прием через сайт-поставщик фида-->
+    <param name="Онлайн-расписание">true</param>
+    <param name="Телефон для записи">+7 (4712) 25-47-03</param>
+    <!--Можно подменник аггрегатора-->
+    <param name="Образование - 1" unit="Организация">Курский Государственный Медицинский Университет</param>
+    <param name="Образование - 1" unit="Дата">2009</param>
+    <param name="Образование - 1" unit="Название">Базовое образование</param>
+    <param name="Образование - 1" unit="Специальность">Лечебное дело</param>
+    <param name="Образование - 2" unit="Организация">Курский Государственный Медицинский Университет</param>
+    <param name="Образование - 2" unit="Дата">2010</param>
+    <param name="Образование - 2" unit="Название">Интернатура</param>
+    <param name="Образование - 2" unit="Специальность">Интернатура по специальности «Дерматовенерология»</param>
+    <param name="Образование - 3" unit="Организация">ООО «Институт Инновационных Технологий»</param>
+    <param name="Образование - 3" unit="Дата">2020</param>
+    <param name="Образование - 3" unit="Название">Повышение квалификации</param>
+    <param name="Образование - 3" unit="Специальность">Повышение квалификации по программе «Дерматовенерология»</param>
+    <param name="Образование - 4" unit="Организация">Институт профессиональных технологий и сервиса «Физ»</param>
+    <param name="Образование - 4" unit="Дата">2021</param>
+    <param name="Образование - 4" unit="Название">Профессиональная переподготовка</param>
+    <param name="Образование - 4" unit="Специальность">Профессиональная переподготовка по программе «Косметология»</param>
+    <param name="Место работы - 1" unit="Организация">Медицинский центр «Медавико»</param>
+    <param name="Место работы - 1" unit="Дата">2024</param>
+    <param name="Сертификат - 1" unit="Организация">Курский Государственный Медицинский Университет</param>
+    <param name="Сертификат - 1" unit="Дата">2016</param>
+    <param name="Сертификат - 1" unit="Название">Сертификат специалиста по специальности «Дерматовенерология»</param>
+    <param name="Сертификат - 2" unit="Организация">ООО «Институт Инновационных Технологий»</param>
+    <param name="Сертификат - 2" unit="Дата">2020</param>
+    <param name="Сертификат - 2" unit="Название">Сертификат специалиста по специальности «Дерматовенерология»</param>
+   </offer>
+
+
 
   </offers>
  </shop>

@@ -1875,9 +1875,9 @@
     
     <url>https://medaviko.ru/doctors/brajenko</url>
     <!--URL карточки врача. -->
-    <price from="true">2000</price>
+    <price from="true">2500</price>
     <!--Цена приема при записи в источнике фида, с учетом скидки -->
-    <oldprice>2000</oldprice>
+    <oldprice>2500</oldprice>
     <!--Цена приема в клинике, должна быть не ниже price-->
     <currencyId>RUR</currencyId>
     <sales_notes>Прием врача-психотерапевта</sales_notes>

@@ -2426,7 +2426,90 @@
     <param name="Место работы - 1" unit="Организация">Медицинский центр «Медавико»</param>
     <param name="Место работы - 1" unit="Дата">2024</param>
    </offer>
-
+   <offer id="vrach48">
+    <name>Горелая Карина Михайловна</name>
+    <url>https://medaviko.ru/doctors/gorelaya</url>
+    <!--URL карточки врача. -->
+    <price from="true">500</price>
+    <!--Цена приема при записи в источнике фида, с учетом скидки -->
+    <oldprice>500</oldprice>
+    <!--Цена приема в клинике, должна быть не ниже price-->
+    <currencyId>RUR</currencyId>
+    <sales_notes>Прием врача-стоматолога первичный</sales_notes>
+    <set-ids>stomatolog</set-ids>
+    <!--специальности через запятую-->
+    <picture>https://static.tildacdn.com/tild6533-3763-4534-b531-623232626466/DSC_4141-2.jpg</picture>
+    <description>Специалист по диагностике, лечению и профилактике заболеваний зубов и полости рта. 
+    </description>
+    <categoryId>1</categoryId>
+    <param name="Фамилия">Горелая</param>
+    <param name="Имя">Карина</param>
+    <param name="Отчество">Михайловна</param>
+    <param name="Годы опыта">1</param>
+    <param name="Начало карьеры">2024-06-01</param>
+    <!--Дата начала карьеры, для подсчета стажа-->
+    <param name="Город">г. Курск</param>
+    <param name="Взрослый врач">true</param>
+    <!--Принимает взрослых, от 18 лет-->
+    <param name="Детский врач">true</param>
+    <!--Принимает детей, до 18 лет-->
+    <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/gorelaya</param>
+    <param name="Город клиники">г. Курск</param>
+    <param name="Адрес клиники">Магистральный проезд, 11Е</param>
+    <param name="Название клиники">Медицинский центр «Медавико»</param>
+    <param name="Возможность записи">true</param>
+    <!--Возможность записаться на прием через сайт-поставщик фида-->
+    <param name="Онлайн-расписание">true</param>
+    <param name="Телефон для записи">+7 (4712) 25-47-03</param>
+    <param name="Образование - 1" unit="Организация">Курский Государственный Медицинский Университет</param>
+    <param name="Образование - 1" unit="Дата">2024</param>
+    <param name="Образование - 1" unit="Название">Диплом специалиста</param>
+    <param name="Образование - 1" unit="Специальность">Стоматология</param>
+    <param name="Место работы - 1" unit="Организация">Медицинский центр «Медавико»</param>
+    <param name="Место работы - 1" unit="Дата">2024</param>
+   </offer>
+   <offer id="vrach49">
+    <name>Иванов Владислав Сергеевич</name>
+    <url>https://medaviko.ru/doctors/ivanov</url>
+    <!--URL карточки врача. -->
+    <price from="true">500</price>
+    <!--Цена приема при записи в источнике фида, с учетом скидки -->
+    <oldprice>500</oldprice>
+    <!--Цена приема в клинике, должна быть не ниже price-->
+    <currencyId>RUR</currencyId>
+    <sales_notes>Прием врача-стоматолога первичный</sales_notes>
+    <set-ids>stomatolog</set-ids>
+    <!--специальности через запятую-->
+    <picture>https://static.tildacdn.com/tild3230-3233-4663-a138-323430363561/DSC_4148.jpg</picture>
+    <description>Специалист по диагностике, лечению и профилактике заболеваний зубов и полости рта. 
+    </description>
+    <categoryId>1</categoryId>
+    <param name="Фамилия">Иванов</param>
+    <param name="Имя">Владислав</param>
+    <param name="Отчество">Сергеевич</param>
+    <param name="Годы опыта">2</param>
+    <param name="Начало карьеры">2023-06-01</param>
+    <!--Дата начала карьеры, для подсчета стажа-->
+    <param name="Город">г. Курск</param>
+    <param name="Взрослый врач">true</param>
+    <!--Принимает взрослых, от 18 лет-->
+    <param name="Детский врач">true</param>
+    <!--Принимает детей, до 18 лет-->
+    <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/ivanov</param>
+    <param name="Город клиники">г. Курск</param>
+    <param name="Адрес клиники">Магистральный проезд, 11Е</param>
+    <param name="Название клиники">Медицинский центр «Медавико»</param>
+    <param name="Возможность записи">true</param>
+    <!--Возможность записаться на прием через сайт-поставщик фида-->
+    <param name="Онлайн-расписание">true</param>
+    <param name="Телефон для записи">+7 (4712) 25-47-03</param>
+    <param name="Образование - 1" unit="Организация">Курский Государственный Медицинский Университет</param>
+    <param name="Образование - 1" unit="Дата">2023</param>
+    <param name="Образование - 1" unit="Название">Диплом специалиста</param>
+    <param name="Образование - 1" unit="Специальность">Стоматология</param>
+    <param name="Место работы - 1" unit="Организация">Медицинский центр «Медавико»</param>
+    <param name="Место работы - 1" unit="Дата">2023</param>
+   </offer>
 
 
 

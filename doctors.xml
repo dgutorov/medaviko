@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<yml_catalog date="2025-02-16 00:10">
+<yml_catalog date="2025-03-23 00:10">
  <shop>
   <name>Врачи.Медавико</name>
   <company>ООО Медавико</company>
@@ -2626,6 +2626,175 @@
     <param name="Место работы - 1" unit="Организация">Медицинский центр «Медавико»</param>
     <param name="Место работы - 1" unit="Дата">2025</param>
 </offer>
+<offer id="vrach52">
+    <name>Воронин Кирилл Николаевич</name>
+    <url>https://medaviko.ru/doctors/voroninkn</url>
+    <price from="true">500</price>
+    <oldprice>500</oldprice>
+    <currencyId>RUR</currencyId>
+    <sales_notes>Прием врача-стоматолога первичный</sales_notes>
+    <set-ids>stomatolog</set-ids>
+    <picture>https://static.tildacdn.com/tild3964-6431-4164-b831-636435666163/voroninkn.jpg</picture>
+    <description>Специалист по диагностике, лечению и профилактике заболеваний зубов и полости рта.</description>
+    <categoryId>1</categoryId>
+    <param name="Фамилия">Воронин</param>
+    <param name="Имя">Кирилл</param>
+    <param name="Отчество">Николаевич</param>
+    <param name="Годы опыта">1</param>
+    <param name="Начало карьеры">2024-06-01</param>
+    <param name="Город">г. Курск</param>
+    <param name="Взрослый врач">true</param>
+    <param name="Детский врач">false</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/voroninkn</param>
+    <param name="Город клиники">г. Курск</param>
+    <param name="Адрес клиники">Магистральный проезд, 11Е</param>
+    <param name="Название клиники">Медицинский центр «Медавико»</param>
+    <param name="Возможность записи">true</param>
+    <param name="Онлайн-расписание">true</param>
+    <param name="Телефон для записи">+7 (4712) 25-47-03</param>
+    <param name="Образование - 1" unit="Организация">Курский Государственный Медицинский Университет</param>
+    <param name="Образование - 1" unit="Дата">2024</param>
+    <param name="Образование - 1" unit="Название">Диплом специалиста</param>
+    <param name="Образование - 1" unit="Специальность">Стоматология</param>
+    <param name="Место работы - 1" unit="Организация">Медицинский центр «Медавико»</param>
+    <param name="Место работы - 1" unit="Дата">2025</param>
+</offer>
+<offer id="vrach53">
+    <name>Подчерняева Наталья Петровна</name>
+    <url>https://medaviko.ru/doctors/podchernyaevanp</url>
+    <price from="true">1400</price>
+    <oldprice>1400</oldprice>
+    <currencyId>RUR</currencyId>
+    <sales_notes>Прием врача-кардиолога первичный</sales_notes>
+    <set-ids>kardiolog,funcdiagnost</set-ids>
+    <picture>https://static.tildacdn.com/tild3639-6165-4133-b761-336139373637/podchernyaevanp.jpg</picture>
+    <description>Специалист по диагностике и лечению заболеваний сердечно-сосудистой системы.</description>
+    <categoryId>1</categoryId>
+    <param name="Фамилия">Подчерняева</param>
+    <param name="Имя">Наталья</param>
+    <param name="Отчество">Петровна</param>
+    <param name="Годы опыта">18</param>
+    <param name="Начало карьеры">2006-06-01</param>
+    <param name="Город">г. Курск</param>
+    <param name="Взрослый врач">true</param>
+    <param name="Детский врач">false</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/podchernyaevanp</param>
+    <param name="Город клиники">г. Курск</param>
+    <param name="Адрес клиники">Магистральный проезд, 11Е</param>
+    <param name="Название клиники">Медицинский центр «Медавико»</param>
+    <param name="Возможность записи">true</param>
+    <param name="Онлайн-расписание">true</param>
+    <param name="Телефон для записи">+7 (4712) 25-47-03</param>
+    <param name="Образование - 1" unit="Организация">Курский Государственный Медицинский Университет</param>
+    <param name="Образование - 1" unit="Дата">2009</param>
+    <param name="Образование - 1" unit="Название">Диплом о профессиональной переподготовке</param>
+    <param name="Образование - 1" unit="Специальность">Кардиология</param>
+    <param name="Образование - 2" unit="Организация">ФГБОУ ВО КГМУ</param>
+    <param name="Образование - 2" unit="Дата">2014</param>
+    <param name="Образование - 2" unit="Название">Удостоверение о повышении квалификации</param>
+    <param name="Образование - 2" unit="Специальность">Актуальные вопросы кардиологии и функциональной диагностики</param>
+    <param name="Образование - 3" unit="Организация">ФГБОУ ВО КГМУ</param>
+    <param name="Образование - 3" unit="Дата">2019</param>
+    <param name="Образование - 3" unit="Название">Удостоверение о повышении квалификации</param>
+    <param name="Образование - 3" unit="Специальность">Актуальные вопросы кардиологии</param>
+    <param name="Образование - 4" unit="Организация">МЕЖРЕГИОНАЛЬНЫЙ НАУЧНО-ТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ</param>
+    <param name="Образование - 4" unit="Дата">2023</param>
+    <param name="Образование - 4" unit="Название">Удостоверение о повышении квалификации</param>
+    <param name="Образование - 4" unit="Специальность">Кардиология</param>
+    <param name="Место работы - 1" unit="Организация">Медицинский центр «Медавико»</param>
+    <param name="Место работы - 1" unit="Дата">2025</param>
+</offer>
+<offer id="vrach54">
+    <name>Гриних Кирилл Алексеевич</name>
+    <url>https://medaviko.ru/doctors/grinihka</url>
+    <price from="true">1400</price>
+    <oldprice>1400</oldprice>
+    <currencyId>RUR</currencyId>
+    <sales_notes>Первичный прием врача-уролога</sales_notes>
+    <set-ids>urolog,uzd</set-ids>
+    <picture>https://static.tildacdn.com/tild6463-6432-4361-a336-353130363434/grinihka.jpg</picture>
+    <description>Специалист по диагностике и лечению заболеваний мочеполовой системы, а также проведению ультразвуковых исследований.</description>
+    <categoryId>1</categoryId>
+    <param name="Фамилия">Гриних</param>
+    <param name="Имя">Кирилл</param>
+    <param name="Отчество">Алексеевич</param>
+    <param name="Годы опыта">4</param>
+    <param name="Начало карьеры">2020-06-01</param>
+    <param name="Город">г. Курск</param>
+    <param name="Взрослый врач">true</param>
+    <param name="Детский врач">false</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/grinihka</param>
+    <param name="Город клиники">г. Курск</param>
+    <param name="Адрес клиники">Магистральный проезд, 11Е</param>
+    <param name="Название клиники">Медицинский центр «Медавико»</param>
+    <param name="Возможность записи">true</param>
+    <param name="Онлайн-расписание">true</param>
+    <param name="Телефон для записи">+7 (4712) 25-47-03</param>
+    <param name="Образование - 1" unit="Организация">Курский Государственный Медицинский Университет</param>
+    <param name="Образование - 1" unit="Дата">2020</param>
+    <param name="Образование - 1" unit="Название">Диплом специалиста</param>
+    <param name="Образование - 1" unit="Специальность">Лечебное дело</param>
+    <param name="Образование - 2" unit="Организация">Курский Государственный Медицинский Университет</param>
+    <param name="Образование - 2" unit="Дата">2022</param>
+    <param name="Образование - 2" unit="Название">Диплом об окончании ординатуры</param>
+    <param name="Образование - 2" unit="Специальность">Урология</param>
+    <param name="Образование - 3" unit="Организация">ФГБОУ ВО КГМУ</param>
+    <param name="Образование - 3" unit="Дата">2024</param>
+    <param name="Образование - 3" unit="Название">Диплом о профессиональной переподготовке</param>
+    <param name="Образование - 3" unit="Специальность">Ультразвуковая диагностика</param>
+    <param name="Место работы - 1" unit="Организация">Медицинский центр «Медавико»</param>
+    <param name="Место работы - 1" unit="Дата">2025</param>
+</offer>
+<offer id="vrach55">
+    <name>Набокова Ольга Егоровна</name>
+    <url>https://medaviko.ru/doctors/nabokovaoe</url>
+    <price from="true">1400</price>
+    <oldprice>1400</oldprice>
+    <currencyId>RUR</currencyId>
+    <sales_notes>Прием врача-невролога первичный</sales_notes>
+    <set-ids>nevrolog,det-nevrolog</set-ids>
+    <picture>https://static.tildacdn.com/tild3161-3865-4637-b738-313165363365/nabokovaoe.jpg</picture>
+    <description>Специалист по диагностике и лечению заболеваний нервной системы у взрослых и детей.</description>
+    <categoryId>1</categoryId>
+    <param name="Фамилия">Набокова</param>
+    <param name="Имя">Ольга</param>
+    <param name="Отчество">Егоровна</param>
+    <param name="Годы опыта">11</param>
+    <param name="Начало карьеры">2014-06-01</param>
+    <param name="Город">г. Курск</param>
+    <param name="Взрослый врач">true</param>
+    <param name="Детский врач">true</param>
+    <param name="Ссылка на профиль врача">https://medaviko.ru/doctors/nabokovaoe</param>
+    <param name="Город клиники">г. Курск</param>
+    <param name="Адрес клиники">Магистральный проезд, 11Е</param>
+    <param name="Название клиники">Медицинский центр «Медавико»</param>
+    <param name="Возможность записи">true</param>
+    <param name="Онлайн-расписание">true</param>
+    <param name="Телефон для записи">+7 (4712) 25-47-03</param>
+    <param name="Образование - 1" unit="Организация">Курский Государственный Медицинский Университет</param>
+    <param name="Образование - 1" unit="Дата">2014</param>
+    <param name="Образование - 1" unit="Название">Диплом специалиста</param>
+    <param name="Образование - 1" unit="Специальность">Лечебное дело</param>
+    <param name="Образование - 2" unit="Организация">Курский Государственный Медицинский Университет</param>
+    <param name="Образование - 2" unit="Дата">2015</param>
+    <param name="Образование - 2" unit="Название">Диплом об окончании интернатуры</param>
+    <param name="Образование - 2" unit="Специальность">Неврология</param>
+    <param name="Образование - 3" unit="Организация">РМАПО</param>
+    <param name="Образование - 3" unit="Дата">2019</param>
+    <param name="Образование - 3" unit="Название">Удостоверение о повышении квалификации</param>
+    <param name="Образование - 3" unit="Специальность">Детская неврология</param>
+    <param name="Образование - 4" unit="Организация">ЧОУ ДПО «Академия повышения квалификации и профессиональной переподготовки»</param>
+    <param name="Образование - 4" unit="Дата">2022</param>
+    <param name="Образование - 4" unit="Название">Удостоверение о повышении квалификации</param>
+    <param name="Образование - 4" unit="Специальность">Эпилептология</param>
+    <param name="Образование - 5" unit="Организация">ФГАОУ ВО РНИМУ им. Пирогова</param>
+    <param name="Образование - 5" unit="Дата">2024</param>
+    <param name="Образование - 5" unit="Название">Удостоверение о повышении квалификации</param>
+    <param name="Образование - 5" unit="Специальность">Паллиативная медицинская помощь детям</param>
+    <param name="Место работы - 1" unit="Организация">Медицинский центр «Медавико»</param>
+    <param name="Место работы - 1" unit="Дата">2025</param>
+</offer>
+
 
   </offers>
  </shop>
